@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="validasi" id="validasi">
+	<SimpleField name="Id" type="string"></SimpleField>
+</Schema>
+<Folder><name>validasi</name>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.815416937355,-6.18843328998855,0 106.8154274,-6.1883364,0 106.815340005205,-6.18833029197134,0 106.815225791077,-6.18837669146092,0 106.81454764469,-6.18845878286572,0 106.813880205878,-6.18852302831289,0 106.813138142114,-6.18859111214613,0 106.812808750038,-6.18863010665126,0 106.812391947258,-6.18864370099737,0 106.812302114561,-6.18864663096048,0 106.812068907487,-6.18865789926303,0 106.811871609712,-6.18868044758,0 106.811489138885,-6.18872415853167,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.815490599166,-6.1885790379348,0 106.8155247,-6.1883628,0 106.815573983652,-6.18802016583572,0 106.815631456227,-6.18746270148279,0 106.81564127355,-6.18712857403051,0 106.81562717697,-6.18633726135727,0 106.8156154,-6.1858832,0 106.8154975,-6.1856245,0 106.815063,-6.185094,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.81564127355,-6.18712857403051,0 106.815883133934,-6.1871826188808,0 106.816388139076,-6.18718356748235,0 106.816623413448,-6.1871772142589,0 106.8172646,-6.1871599,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.821088638112,-6.20979648689206,0 106.821384063721,-6.20912151559673,0 106.821588990295,-6.20837665141619,0 106.8217388,-6.2076807,0 106.821833730883,-6.20704117087979,0 106.82193754273,-6.20634181259572,0 106.822054093734,-6.20545263770998,0 106.82211720282,-6.20489981268804,0 106.8221736,-6.2044655,0 106.822281546559,-6.20404534154312,0 106.8224415,-6.2035865,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8291206,-6.20349706,0 106.828006709449,-6.203185425512,0 106.8275499,-6.2031724,0 106.826316064581,-6.20287112098578,0 106.824753133776,-6.2025158038586,0 106.82359,-6.2022336,0 106.82304322757,-6.20205592995325,0 106.823125047084,-6.20158431134524,0 106.82326658024,-6.2007684953403,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8464027,-6.18910019999987,0 106.846244445747,-6.18882832185915,0 106.845997057719,-6.18842309963537,0 106.8458053,-6.188109,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.861598650437,-6.17247825498896,0 106.860495554617,-6.17295830948137,0 106.8596024,-6.173347,0 106.859213472148,-6.17344418779675,0 106.858731975835,-6.17356450719672,0 106.857998510414,-6.17374779026045,0 106.857496148841,-6.17384899683805,0 106.856939919004,-6.17394029616224,0 106.856230955886,-6.17402751402108,0 106.855087268429,-6.17418362092758,0 106.854338,-6.1742894,0 106.853936946661,-6.17432213142263,0 106.853053690428,-6.17439421717842,0 106.8521913,-6.1744646,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.861736541207,-6.17292072420713,0 106.861082033912,-6.17316596901878,0 106.8604779,-6.1733732,0 106.86007851148,-6.17344867457871,0 106.859340619323,-6.1736565485723,0 106.858617163601,-6.17386035563072,0 106.85803638336,-6.1740239691166,0 106.857462916656,-6.17413226025491,0 106.856637227575,-6.17425395726548,0 106.855696530268,-6.17435336605814,0 106.854756965134,-6.17445846917264,0 106.853711221163,-6.17457635711548,0 106.852985322131,-6.17465818856368,0 106.8521842,-6.1747485,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8464027,-6.18910019999987,0 106.846180825928,-6.1892103874614,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8191866753,-6.16968485093469,0 106.818729818787,-6.16985617212714,0 106.818375492687,-6.16992379779424,0 106.817817235554,-6.17003034515557,0 106.817168441303,-6.17015417217266,0 106.816240888442,-6.17033120226154,0 106.814685564549,-6.17059546394847,0 106.813736309502,-6.17075224781507,0 106.8124228963,-6.17096650152513,0 106.811122295759,-6.17117168478325,0 106.80925,-6.171464,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.818138,-6.169585,0 106.8178514586,-6.16963171269441,0 106.81648236309,-6.1698549060626,0 106.815168896239,-6.17006903070802,0 106.812533702327,-6.17049862659872,0 106.812375012617,-6.17058945895565,0 106.811650631631,-6.17071897604376,0 106.80927634425,-6.1711333357203,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

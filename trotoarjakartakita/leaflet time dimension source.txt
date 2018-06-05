@@ -1,0 +1,5 @@
+leaflet timedimension:
+http://apps.socib.es/Leaflet.TimeDimension/examples/example12.html
+
+github primary source code:
+https://github.com/socib/Leaflet.TimeDimension 

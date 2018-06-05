@@ -1,0 +1,1802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Jalan_Kereta">
+  <name>Jalan_Kereta</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Jalan_Kereta</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Jalur KA Tanah Abang - Manggarai</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jalur KA Tanah Abang - Manggarai</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>osm_id</td>
+<td>107475298</td>
+</tr>
+<tr>
+<td>aeroway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>amenity</td>
+<td></td>
+</tr>
+<tr>
+<td>bridge</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>building</td>
+<td></td>
+</tr>
+<tr>
+<td>capacity</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>highway</td>
+<td></td>
+</tr>
+<tr>
+<td>layer</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>name</td>
+<td>Jalur KA Tanah Abang - Manggarai</td>
+</tr>
+<tr>
+<td>oneway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>operator</td>
+<td></td>
+</tr>
+<tr>
+<td>parking</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>public_tra</td>
+<td></td>
+</tr>
+<tr>
+<td>railway</td>
+<td>rail</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>smoothness</td>
+<td></td>
+</tr>
+<tr>
+<td>surface</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tunnel</td>
+<td></td>
+</tr>
+<tr>
+<td>width</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>z_index</td>
+<td>-5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 106.810961,-6.1860253,0 106.8109247,-6.1856893,0 106.8108925,-6.1854462,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>osm_id</td>
+<td>383138084</td>
+</tr>
+<tr>
+<td>aeroway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>amenity</td>
+<td></td>
+</tr>
+<tr>
+<td>bridge</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>building</td>
+<td></td>
+</tr>
+<tr>
+<td>capacity</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>highway</td>
+<td></td>
+</tr>
+<tr>
+<td>layer</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>name</td>
+<td></td>
+</tr>
+<tr>
+<td>oneway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>operator</td>
+<td></td>
+</tr>
+<tr>
+<td>parking</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>public_tra</td>
+<td></td>
+</tr>
+<tr>
+<td>railway</td>
+<td>rail</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>smoothness</td>
+<td></td>
+</tr>
+<tr>
+<td>surface</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tunnel</td>
+<td></td>
+</tr>
+<tr>
+<td>width</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>z_index</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 106.8108382,-6.1854835,0 106.8107982,-6.1851726,0 106.8107782,-6.1849689,0 106.8107073,-6.1842828,0 106.8106611,-6.1838677,0 106.8105686,-6.1830407,0 106.8105224,-6.1826042,0 106.810467,-6.1820758,0 106.8104151,-6.1815907,0 106.8103842,-6.1812867,0 106.8103591,-6.1810098,0 106.8103333,-6.1807041,0 106.8103011,-6.1804521,0 106.8102595,-6.1801787,0 106.8102434,-6.1801107,0 106.8102430807045,-6.180109189783806,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Jalur KA Tanah Abang - Rangkasbitung</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jalur KA Tanah Abang - Rangkasbitung</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>osm_id</td>
+<td>383138085</td>
+</tr>
+<tr>
+<td>aeroway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>amenity</td>
+<td></td>
+</tr>
+<tr>
+<td>bridge</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>building</td>
+<td></td>
+</tr>
+<tr>
+<td>capacity</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>highway</td>
+<td></td>
+</tr>
+<tr>
+<td>layer</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>name</td>
+<td>Jalur KA Tanah Abang - Rangkasbitung</td>
+</tr>
+<tr>
+<td>oneway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>operator</td>
+<td></td>
+</tr>
+<tr>
+<td>parking</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>public_tra</td>
+<td></td>
+</tr>
+<tr>
+<td>railway</td>
+<td>rail</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>smoothness</td>
+<td></td>
+</tr>
+<tr>
+<td>surface</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tunnel</td>
+<td></td>
+</tr>
+<tr>
+<td>width</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>z_index</td>
+<td>-5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 106.8108403,-6.1859284,0 106.8107839,-6.1854752,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Jalur 6</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jalur 6</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>osm_id</td>
+<td>383138086</td>
+</tr>
+<tr>
+<td>aeroway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>amenity</td>
+<td></td>
+</tr>
+<tr>
+<td>bridge</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>building</td>
+<td></td>
+</tr>
+<tr>
+<td>capacity</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>highway</td>
+<td></td>
+</tr>
+<tr>
+<td>layer</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>name</td>
+<td>Jalur 6</td>
+</tr>
+<tr>
+<td>oneway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>operator</td>
+<td></td>
+</tr>
+<tr>
+<td>parking</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>public_tra</td>
+<td></td>
+</tr>
+<tr>
+<td>railway</td>
+<td>rail</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>smoothness</td>
+<td></td>
+</tr>
+<tr>
+<td>surface</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tunnel</td>
+<td></td>
+</tr>
+<tr>
+<td>width</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>z_index</td>
+<td>-5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 106.8106842,-6.1852262,0 106.8107982,-6.1861329,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>osm_id</td>
+<td>485282308</td>
+</tr>
+<tr>
+<td>aeroway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>amenity</td>
+<td></td>
+</tr>
+<tr>
+<td>bridge</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>building</td>
+<td></td>
+</tr>
+<tr>
+<td>capacity</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>highway</td>
+<td></td>
+</tr>
+<tr>
+<td>layer</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>name</td>
+<td></td>
+</tr>
+<tr>
+<td>oneway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>operator</td>
+<td></td>
+</tr>
+<tr>
+<td>parking</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>public_tra</td>
+<td></td>
+</tr>
+<tr>
+<td>railway</td>
+<td>rail</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>smoothness</td>
+<td></td>
+</tr>
+<tr>
+<td>surface</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tunnel</td>
+<td></td>
+</tr>
+<tr>
+<td>width</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>z_index</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 106.8103148,-6.1915343,0 106.8104962,-6.190821,0 106.810678,-6.1901593,0 106.810886,-6.1894227,0 106.8109337,-6.1891363,0 106.8110493,-6.1884777,0 106.8110554,-6.1880182,0 106.8110493,-6.1876553,0 106.8110323,-6.1873306,0 106.8109954,-6.1869676,0 106.8109553,-6.1865587,0 106.8109014,-6.1860333,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>osm_id</td>
+<td>485282309</td>
+</tr>
+<tr>
+<td>aeroway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>amenity</td>
+<td></td>
+</tr>
+<tr>
+<td>bridge</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>building</td>
+<td></td>
+</tr>
+<tr>
+<td>capacity</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>highway</td>
+<td></td>
+</tr>
+<tr>
+<td>layer</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>name</td>
+<td></td>
+</tr>
+<tr>
+<td>oneway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>operator</td>
+<td></td>
+</tr>
+<tr>
+<td>parking</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>public_tra</td>
+<td></td>
+</tr>
+<tr>
+<td>railway</td>
+<td>rail</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>smoothness</td>
+<td></td>
+</tr>
+<tr>
+<td>surface</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tunnel</td>
+<td></td>
+</tr>
+<tr>
+<td>width</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>z_index</td>
+<td>-5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 106.8109014,-6.1860333,0 106.8108382,-6.1854835,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Jalur KA Manggarai - Tanah Abang</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jalur KA Manggarai - Tanah Abang</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>osm_id</td>
+<td>488210710</td>
+</tr>
+<tr>
+<td>aeroway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>amenity</td>
+<td></td>
+</tr>
+<tr>
+<td>bridge</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>building</td>
+<td></td>
+</tr>
+<tr>
+<td>capacity</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>highway</td>
+<td></td>
+</tr>
+<tr>
+<td>layer</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>name</td>
+<td>Jalur KA Manggarai - Tanah Abang</td>
+</tr>
+<tr>
+<td>oneway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>operator</td>
+<td></td>
+</tr>
+<tr>
+<td>parking</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>public_tra</td>
+<td></td>
+</tr>
+<tr>
+<td>railway</td>
+<td>rail</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>smoothness</td>
+<td></td>
+</tr>
+<tr>
+<td>surface</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tunnel</td>
+<td></td>
+</tr>
+<tr>
+<td>width</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>z_index</td>
+<td>-5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 106.8110414,-6.1858149,0 106.8110266,-6.1856736,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Jalur KA Manggarai - Tanah Abang</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jalur KA Manggarai - Tanah Abang</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>osm_id</td>
+<td>494047091</td>
+</tr>
+<tr>
+<td>aeroway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>amenity</td>
+<td></td>
+</tr>
+<tr>
+<td>bridge</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>building</td>
+<td></td>
+</tr>
+<tr>
+<td>capacity</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>highway</td>
+<td></td>
+</tr>
+<tr>
+<td>layer</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>name</td>
+<td>Jalur KA Manggarai - Tanah Abang</td>
+</tr>
+<tr>
+<td>oneway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>operator</td>
+<td></td>
+</tr>
+<tr>
+<td>parking</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>public_tra</td>
+<td></td>
+</tr>
+<tr>
+<td>railway</td>
+<td>rail</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>smoothness</td>
+<td></td>
+</tr>
+<tr>
+<td>surface</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tunnel</td>
+<td></td>
+</tr>
+<tr>
+<td>width</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>z_index</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 106.8110266,-6.1856736,0 106.8109339,-6.1849308,0 106.8108826,-6.184366,0 106.8107623,-6.1838435,0 106.8106697,-6.1831825,0 106.8106136,-6.1824255,0 106.8105393,-6.1818397,0 106.810465,-6.1811113,0 106.810403,-6.1803882,0 106.8103836,-6.1802105,0 106.8103619592303,-6.180109189783806,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Jalur 6</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jalur 6</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>osm_id</td>
+<td>496016697</td>
+</tr>
+<tr>
+<td>aeroway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>amenity</td>
+<td></td>
+</tr>
+<tr>
+<td>bridge</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>building</td>
+<td></td>
+</tr>
+<tr>
+<td>capacity</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>highway</td>
+<td></td>
+</tr>
+<tr>
+<td>layer</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>name</td>
+<td>Jalur 6</td>
+</tr>
+<tr>
+<td>oneway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>operator</td>
+<td></td>
+</tr>
+<tr>
+<td>parking</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>public_tra</td>
+<td></td>
+</tr>
+<tr>
+<td>railway</td>
+<td>rail</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>smoothness</td>
+<td></td>
+</tr>
+<tr>
+<td>surface</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tunnel</td>
+<td></td>
+</tr>
+<tr>
+<td>width</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>z_index</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 106.8105656,-6.1832551,0 106.8105579,-6.1836655,0 106.8105763,-6.1839581,0 106.8106179,-6.1845079,0 106.8106842,-6.1852262,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Jalur 6</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jalur 6</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>osm_id</td>
+<td>496016699</td>
+</tr>
+<tr>
+<td>aeroway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>amenity</td>
+<td></td>
+</tr>
+<tr>
+<td>bridge</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>building</td>
+<td></td>
+</tr>
+<tr>
+<td>capacity</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>highway</td>
+<td></td>
+</tr>
+<tr>
+<td>layer</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>name</td>
+<td>Jalur 6</td>
+</tr>
+<tr>
+<td>oneway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>operator</td>
+<td></td>
+</tr>
+<tr>
+<td>parking</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>public_tra</td>
+<td></td>
+</tr>
+<tr>
+<td>railway</td>
+<td>rail</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>smoothness</td>
+<td></td>
+</tr>
+<tr>
+<td>surface</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tunnel</td>
+<td></td>
+</tr>
+<tr>
+<td>width</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>z_index</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 106.8107982,-6.1861329,0 106.8108305,-6.1864943,0 106.8108675,-6.1867823,0 106.8109045,-6.1869553,0 106.8109738,-6.1873551,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Jalur KA Tanah Abang - Rangkasbitung</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jalur KA Tanah Abang - Rangkasbitung</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>osm_id</td>
+<td>496016701</td>
+</tr>
+<tr>
+<td>aeroway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>amenity</td>
+<td></td>
+</tr>
+<tr>
+<td>bridge</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>building</td>
+<td></td>
+</tr>
+<tr>
+<td>capacity</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>highway</td>
+<td></td>
+</tr>
+<tr>
+<td>layer</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>name</td>
+<td>Jalur KA Tanah Abang - Rangkasbitung</td>
+</tr>
+<tr>
+<td>oneway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>operator</td>
+<td></td>
+</tr>
+<tr>
+<td>parking</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>public_tra</td>
+<td></td>
+</tr>
+<tr>
+<td>railway</td>
+<td>rail</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>smoothness</td>
+<td></td>
+</tr>
+<tr>
+<td>surface</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tunnel</td>
+<td></td>
+</tr>
+<tr>
+<td>width</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>z_index</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 106.8107839,-6.1854752,0 106.8107212,-6.1847912,0 106.8106549,-6.1841771,0 106.8106041,-6.1837391,0 106.8105656,-6.1832551,0 106.8105086,-6.1828002,0 106.8104901,-6.1825812,0 106.8104593,-6.1822749,0 106.8104069,-6.1818813,0 106.8103684,-6.1814417,0 106.8103206,-6.1810159,0 106.8103068,-6.1808459,0 106.8102913,-6.180656,0 106.8102713,-6.1804477,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Jalur KA Tanah Abang - Rangkasbitung</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jalur KA Tanah Abang - Rangkasbitung</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>osm_id</td>
+<td>497048612</td>
+</tr>
+<tr>
+<td>aeroway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>amenity</td>
+<td></td>
+</tr>
+<tr>
+<td>bridge</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>building</td>
+<td></td>
+</tr>
+<tr>
+<td>capacity</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>highway</td>
+<td></td>
+</tr>
+<tr>
+<td>layer</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>name</td>
+<td>Jalur KA Tanah Abang - Rangkasbitung</td>
+</tr>
+<tr>
+<td>oneway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>operator</td>
+<td></td>
+</tr>
+<tr>
+<td>parking</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>public_tra</td>
+<td></td>
+</tr>
+<tr>
+<td>railway</td>
+<td>rail</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>smoothness</td>
+<td></td>
+</tr>
+<tr>
+<td>surface</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tunnel</td>
+<td></td>
+</tr>
+<tr>
+<td>width</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>z_index</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 106.8101092411077,-6.192140847220117,0 106.8101173,-6.1921105,0 106.8102467,-6.1916327,0 106.8103391,-6.191308,0 106.8105748,-6.1903967,0 106.8107135,-6.1899189,0 106.8108583,-6.1894012,0 106.810906,-6.1891332,0 106.8110169,-6.1884624,0 106.8110046,-6.1880489,0 106.8109907,-6.1876614,0 106.8109738,-6.1873551,0 106.8109414,-6.186865,0 106.8108403,-6.1859284,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Jalur KA Tanahabang - Rangkasbitung</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jalur KA Tanahabang - Rangkasbitung</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>osm_id</td>
+<td>497048614</td>
+</tr>
+<tr>
+<td>aeroway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>amenity</td>
+<td></td>
+</tr>
+<tr>
+<td>bridge</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>building</td>
+<td></td>
+</tr>
+<tr>
+<td>capacity</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>highway</td>
+<td></td>
+</tr>
+<tr>
+<td>layer</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>name</td>
+<td>Jalur KA Tanahabang - Rangkasbitung</td>
+</tr>
+<tr>
+<td>oneway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>operator</td>
+<td></td>
+</tr>
+<tr>
+<td>parking</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>public_tra</td>
+<td></td>
+</tr>
+<tr>
+<td>railway</td>
+<td>rail</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>smoothness</td>
+<td></td>
+</tr>
+<tr>
+<td>surface</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tunnel</td>
+<td></td>
+</tr>
+<tr>
+<td>width</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>z_index</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 106.8101488950398,-6.192140847220117,0 106.8103148,-6.1915343,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Jalur KA Tanah Abang - Manggarai</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jalur KA Tanah Abang - Manggarai</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>osm_id</td>
+<td>497608687</td>
+</tr>
+<tr>
+<td>aeroway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>amenity</td>
+<td></td>
+</tr>
+<tr>
+<td>bridge</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>building</td>
+<td></td>
+</tr>
+<tr>
+<td>capacity</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>highway</td>
+<td></td>
+</tr>
+<tr>
+<td>layer</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>name</td>
+<td>Jalur KA Tanah Abang - Manggarai</td>
+</tr>
+<tr>
+<td>oneway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>operator</td>
+<td></td>
+</tr>
+<tr>
+<td>parking</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>public_tra</td>
+<td></td>
+</tr>
+<tr>
+<td>railway</td>
+<td>rail</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>smoothness</td>
+<td></td>
+</tr>
+<tr>
+<td>surface</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tunnel</td>
+<td></td>
+</tr>
+<tr>
+<td>width</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>z_index</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 106.8108925,-6.1854462,0 106.8108483,-6.1850227,0 106.8107987,-6.1845667,0 106.8103615,-6.1804414,0 106.8103105,-6.1801134,0 106.8103095801593,-6.180109189783806,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Jalur KA Tanah Abang - Manggarai</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jalur KA Tanah Abang - Manggarai</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>osm_id</td>
+<td>498751643</td>
+</tr>
+<tr>
+<td>aeroway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>amenity</td>
+<td></td>
+</tr>
+<tr>
+<td>bridge</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>building</td>
+<td></td>
+</tr>
+<tr>
+<td>capacity</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>highway</td>
+<td></td>
+</tr>
+<tr>
+<td>layer</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>name</td>
+<td>Jalur KA Tanah Abang - Manggarai</td>
+</tr>
+<tr>
+<td>oneway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>operator</td>
+<td></td>
+</tr>
+<tr>
+<td>parking</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>public_tra</td>
+<td></td>
+</tr>
+<tr>
+<td>railway</td>
+<td>rail</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>smoothness</td>
+<td></td>
+</tr>
+<tr>
+<td>surface</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tunnel</td>
+<td></td>
+</tr>
+<tr>
+<td>width</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>z_index</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 106.8102879126719,-6.192140847220117,0 106.8103651,-6.1915228,0 106.8109308,-6.189418,0 106.8111,-6.1884699,0 106.8111107,-6.1880669,0 106.8111267,-6.1876251,0 106.8110915,-6.1871969,0 106.8110427,-6.1868086,0 106.810961,-6.1860253,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Jalur KA Manggarai - Tanah Abang</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jalur KA Manggarai - Tanah Abang</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>osm_id</td>
+<td>498751648</td>
+</tr>
+<tr>
+<td>aeroway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>amenity</td>
+<td></td>
+</tr>
+<tr>
+<td>bridge</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>building</td>
+<td></td>
+</tr>
+<tr>
+<td>capacity</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>highway</td>
+<td></td>
+</tr>
+<tr>
+<td>layer</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>name</td>
+<td>Jalur KA Manggarai - Tanah Abang</td>
+</tr>
+<tr>
+<td>oneway</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>operator</td>
+<td></td>
+</tr>
+<tr>
+<td>parking</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>public_tra</td>
+<td></td>
+</tr>
+<tr>
+<td>railway</td>
+<td>rail</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>smoothness</td>
+<td></td>
+</tr>
+<tr>
+<td>surface</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tunnel</td>
+<td></td>
+</tr>
+<tr>
+<td>width</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>z_index</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 106.8103270911898,-6.192140847220117,0 106.8104066,-6.1915263,0 106.8109675,-6.1894222,0 106.811118,-6.1885426,0 106.8111339,-6.1884581,0 106.8112066,-6.1880519,0 106.8111988,-6.1877241,0 106.811183,-6.1873912,0 106.811171,-6.1870102,0 106.8110826,-6.1860989,0 106.8110414,-6.1858149,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="LineStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0b0085</color>
+      <width>1.000000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>00000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

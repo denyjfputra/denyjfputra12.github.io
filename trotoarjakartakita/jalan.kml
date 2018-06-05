@@ -1,0 +1,1910 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Jalan2" id="Jalan2">
+	<SimpleField name="fid" type="string"></SimpleField>
+	<SimpleField name="bridge" type="string"></SimpleField>
+	<SimpleField name="tunnel" type="string"></SimpleField>
+	<SimpleField name="osm_id" type="string"></SimpleField>
+	<SimpleField name="width" type="string"></SimpleField>
+	<SimpleField name="FID2" type="string"></SimpleField>
+	<SimpleField name="oneway" type="string"></SimpleField>
+	<SimpleField name="railway" type="string"></SimpleField>
+	<SimpleField name="smoothness" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+</Schema>
+<Folder><name>Jalan2</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="bridge">yes</SimpleData>
+		<SimpleData name="osm_id">18081192</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8099819,-6.1888111,0 106.8112626,-6.1890727,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan KH. Wahid Hasyim</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="osm_id">18582645</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8154573,-6.1869518,0 106.815548,-6.1870722,0 106.8157099,-6.1871469,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Kebon Sirih</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="osm_id">28216264</SimpleData>
+		<SimpleData name="width">8</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.822144102732,-6.18338306179061,0 106.8221025,-6.183386,0 106.8199988,-6.182891,0 106.819507,-6.1827277,0 106.8186652,-6.1824793,0 106.817032,-6.1819318,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="osm_id">28225328</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8130168,-6.1801568,0 106.8132379,-6.1812769,0 106.8133273,-6.1816495,0 106.813362,-6.181762,0 106.813555,-6.1823753,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="osm_id">28225335</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary_link</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8150945,-6.1815124,0 106.8144938,-6.1816695,0 106.8139869,-6.181514,0 106.8136355,-6.1813197,0 106.8133473,-6.1806298,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Fakhrudin</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="bridge">yes</SimpleData>
+		<SimpleData name="osm_id">28706767</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8139904,-6.1830835,0 106.8135801,-6.1819688,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Kota Bambu</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="bridge">yes</SimpleData>
+		<SimpleData name="osm_id">28799323</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8113093,-6.1843158,0 106.8109432,-6.1845918,0 106.8089735,-6.1860377,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="osm_id">28799324</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8115163,-6.188576,0 106.8113203,-6.1870047,0 106.8112889,-6.1865946,0 106.8112264,-6.1859623,0 106.8111986,-6.1856578,0 106.811123,-6.1849943,0 106.8111805,-6.184632,0 106.8116884,-6.184128,0 106.8118868,-6.1839459,0 106.8124001,-6.1834764,0 106.8129519,-6.1830132,0 106.8129804,-6.1829516,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jembatan Tinggi</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="osm_id">28799325</SimpleData>
+		<SimpleData name="width">8</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8112626,-6.1890727,0 106.8115282,-6.1891686,0 106.8118178,-6.1897233,0 106.8122175,-6.1900272,0 106.8127942,-6.1900233,0 106.8128271,-6.1900115,0 106.8128846,-6.1899908,0 106.8131204,-6.1897719,0 106.8131617,-6.18969,0 106.8131893,-6.1894868,0 106.8131798,-6.1892817,0 106.8131731,-6.1891366,0 106.8131775,-6.1890702,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Lontar Raya</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="osm_id">28799327</SimpleData>
+		<SimpleData name="width">4</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8131713,-6.191352,0 106.8134092,-6.1916009,0 106.8135013,-6.1916933,0 106.813777,-6.1919691,0 106.8142433,-6.1924356,0 106.8146303,-6.1927796,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jati Bunder Dalam</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="osm_id">28799330</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8113873,-6.1930058,0 106.8114712,-6.1927171,0 106.8116301,-6.1921512,0 106.811682,-6.1919705,0 106.8116883,-6.1919475,0 106.8117312,-6.1917916,0 106.8117361,-6.1917738,0 106.8117871,-6.1915886,0 106.8117959,-6.1915567,0 106.8118528,-6.1913499,0 106.8118648,-6.1912906,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Fakhrudin</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="osm_id">28799333</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8154132,-6.1884679,0 106.8152254,-6.1898126,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Fakhrudin</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="osm_id">28799335</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8151915,-6.1852557,0 106.8150072,-6.1850391,0 106.8147378,-6.1847098,0 106.8145726,-6.1844999,0 106.8139904,-6.1830835,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Fakhrudin</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="bridge">yes</SimpleData>
+		<SimpleData name="osm_id">28799336</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8135082,-6.1819855,0 106.8137045,-6.1825103,0 106.8139379,-6.1831343,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Fakhrudin</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="tunnel">yes</SimpleData>
+		<SimpleData name="osm_id">28908093</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8155497,-6.1866973,0 106.8155466,-6.1868111,0 106.8155332,-6.1873087,0 106.8154132,-6.1884679,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Fakhrudin</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="osm_id">28908096</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8152529,-6.1901305,0 106.8153922,-6.189279,0 106.8155281,-6.1884829,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Fakhrudin</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="tunnel">yes</SimpleData>
+		<SimpleData name="osm_id">28908097</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8155281,-6.1884829,0 106.8156163,-6.1876875,0 106.8156431,-6.18729,0 106.8156363,-6.186689,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="osm_id">28908110</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8152495,-6.1884564,0 106.8152357,-6.1892232,0 106.8152268,-6.1897334,0 106.8152254,-6.1898126,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Cideng Barat</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="osm_id">28926405</SimpleData>
+		<SimpleData name="width">6</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.812364664077,-6.17766355857069,0 106.8124256,-6.1778967,0 106.8125721,-6.1784403,0 106.8127137,-6.1790196,0 106.8127895,-6.1793118,0 106.8128512,-6.1795411,0 106.8130168,-6.1801568,0 106.8132844,-6.1811846,0 106.8135082,-6.1819855,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Citarum</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="osm_id">28932371</SimpleData>
+		<SimpleData name="width">3</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8106283,-6.1823015,0 106.8105894,-6.1803902,0 106.8104928,-6.1797982,0 106.8104164,-6.1795475,0 106.8097429,-6.1785057,0 106.809176507909,-6.17766355857069,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="osm_id">28932378</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary_link</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8136471,-6.1818542,0 106.8133473,-6.1806298,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Bima</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="osm_id">28932705</SimpleData>
+		<SimpleData name="width">1.5</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8085479,-6.1849171,0 106.8100544,-6.1847524,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Inspeksi Banjir Kanal Barat</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="osm_id">28932708</SimpleData>
+		<SimpleData name="width">2.5</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.808160586708,-6.17766355857069,0 106.8082287,-6.1777622,0 106.8083556,-6.1779459,0 106.8084738,-6.1781132,0 106.8086368,-6.1783529,0 106.8087448,-6.1785115,0 106.8088963,-6.1787338,0 106.8090695,-6.178965,0 106.8092056,-6.1791887,0 106.8093131,-6.1793437,0 106.8095192,-6.1796449,0 106.8095772,-6.1798561,0 106.8096747,-6.1804168,0 106.8097516,-6.1810546,0 106.809828,-6.1819398,0 106.8098497,-6.1824164,0 106.8098851,-6.182737,0 106.8098885,-6.1827543,0 106.8098926,-6.182848,0 106.8099649,-6.183773,0 106.8099838,-6.1839751,0 106.8099993,-6.1842557,0 106.8100544,-6.1847524,0 106.8100878,-6.1850967,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalam cideng barat dalam</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="osm_id">28932794</SimpleData>
+		<SimpleData name="width">3</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8121089,-6.1813069,0 106.8123443,-6.1812824,0 106.812772,-6.1812673,0 106.8130738,-6.1813723,0 106.8132379,-6.1812769,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru Timur</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="osm_id">28932796</SimpleData>
+		<SimpleData name="width">3</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8131072,-6.1826929,0 106.8123204,-6.1819181,0 106.8121782,-6.1818935,0 106.8120361,-6.1819468,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru Barat</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="osm_id">28932798</SimpleData>
+		<SimpleData name="width">3</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8127585,-6.1829473,0 106.8120026,-6.1822181,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru Bengkel</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="osm_id">28932799</SimpleData>
+		<SimpleData name="width">3</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8118307,-6.1837437,0 106.8119041,-6.1823107,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru V</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="osm_id">28932800</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8121713,-6.1871567,0 106.8121188,-6.1865807,0 106.8121075,-6.1864434,0 106.8120828,-6.1863018,0 106.8120419,-6.1860673,0 106.8120226,-6.185975,0 106.8120182,-6.185954,0 106.8119734,-6.1856575,0 106.8119871,-6.1855775,0 106.8119895,-6.1855634,0 106.8121558,-6.1849101,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru I</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">29</SimpleData>
+		<SimpleData name="osm_id">28932802</SimpleData>
+		<SimpleData name="width">3</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8119637,-6.1838404,0 106.8124108,-6.1841947,0 106.8126949,-6.1844114,0 106.812284,-6.1847915,0 106.8121721,-6.1848951,0 106.8121558,-6.1849101,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Taman Kebon Sirih I</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">30</SimpleData>
+		<SimpleData name="osm_id">28948352</SimpleData>
+		<SimpleData name="width">6</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8166849,-6.1821412,0 106.8175296,-6.182387,0 106.8187318,-6.1827351,0 106.8199396,-6.1830717,0 106.8214436,-6.1834962,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Waru</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">31</SimpleData>
+		<SimpleData name="osm_id">28948353</SimpleData>
+		<SimpleData name="width">4</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8157178,-6.1863573,0 106.8166165,-6.186341,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Kampung Bali II</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">32</SimpleData>
+		<SimpleData name="osm_id">28948354</SimpleData>
+		<SimpleData name="width">3</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8166351,-6.1858941,0 106.8156868,-6.1859236,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Kampung Bali II</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">33</SimpleData>
+		<SimpleData name="osm_id">28948355</SimpleData>
+		<SimpleData name="width">4</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8166125,-6.1854317,0 106.8155942,-6.1854615,0 106.8155378,-6.1855253,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Kampung Bali I</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">34</SimpleData>
+		<SimpleData name="osm_id">28948356</SimpleData>
+		<SimpleData name="width">3</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8172264,-6.1847945,0 106.8167541,-6.1847841,0 106.8166056,-6.1849161,0 106.8165345,-6.1849888,0 106.8164168,-6.1849948,0 106.8163239,-6.1849995,0 106.8157406,-6.1850488,0 106.8156169,-6.1851414,0 106.8155942,-6.1854615,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Kampung Bali IV</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">35</SimpleData>
+		<SimpleData name="osm_id">28948357</SimpleData>
+		<SimpleData name="width">4</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8166336,-6.1871048,0 106.8166165,-6.186341,0 106.8166351,-6.1858941,0 106.8166125,-6.1854317,0 106.8165345,-6.1849888,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">36</SimpleData>
+		<SimpleData name="osm_id">193670995</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8144938,-6.1816695,0 106.8140662,-6.1819583,0 106.813753,-6.1822175,0 106.813555,-6.1823753,0 106.8132453,-6.1825769,0 106.8131072,-6.1826929,0 106.8130258,-6.1827632,0 106.8128223,-6.1829817,0 106.8127075,-6.1830834,0 106.8118891,-6.183835,0 106.811824,-6.1838826,0 106.8113093,-6.1843158,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">37</SimpleData>
+		<SimpleData name="osm_id">343646316</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8154573,-6.1867648,0 106.8154702,-6.1868331,0 106.8154954,-6.1868784,0 106.8155398,-6.1869202,0 106.8156214,-6.1869202,0 106.8156722,-6.1868756,0 106.8157253,-6.1867751,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">38</SimpleData>
+		<SimpleData name="osm_id">343646318</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8152529,-6.1901305,0 106.8153502,-6.1897453,0 106.8154739,-6.1892253,0 106.8155262,-6.1888897,0 106.8156333,-6.188478,0 106.8156662,-6.1882289,0 106.8156731,-6.1881277,0 106.8157099,-6.1871469,0 106.8157138,-6.1870753,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan KH. Wahid Hasyim</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">39</SimpleData>
+		<SimpleData name="osm_id">343646324</SimpleData>
+		<SimpleData name="width">6</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.822144102732,-6.18693815317203,0 106.8217407,-6.1869292,0 106.8215157,-6.1869512,0 106.8207552,-6.1869855,0 106.8201322,-6.1870249,0 106.8188388,-6.187081,0 106.8184999,-6.1870886,0 106.8181469,-6.1870935,0 106.8174889,-6.187115,0 106.8170551,-6.1871189,0 106.8166336,-6.1871048,0 106.8157138,-6.1870753,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">40</SimpleData>
+		<SimpleData name="osm_id">343646328</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8153809,-6.1881233,0 106.8154303,-6.1881904,0 106.8154894,-6.1882363,0 106.8155421,-6.1882299,0 106.815614,-6.1882037,0 106.8156731,-6.1881277,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">41</SimpleData>
+		<SimpleData name="osm_id">343915034</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary_link</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.813753,-6.1822175,0 106.8136771,-6.1819883,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">42</SimpleData>
+		<SimpleData name="osm_id">343915036</SimpleData>
+		<SimpleData name="width">8</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8168472,-6.1818567,0 106.8160699,-6.1815535,0 106.8155286,-6.1815129,0 106.8150945,-6.1815124,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">43</SimpleData>
+		<SimpleData name="osm_id">343915038</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8157138,-6.1870753,0 106.8157252,-6.1868225,0 106.8157253,-6.1867751,0 106.8157178,-6.1863573,0 106.8156868,-6.1859236,0 106.81563,-6.18572,0 106.8155378,-6.1855253,0 106.8152734,-6.1852106,0 106.8151882,-6.1851122,0 106.8151395,-6.1849734,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan KH. Fakhrudin</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">44</SimpleData>
+		<SimpleData name="osm_id">343915040</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8147895,-6.1846321,0 106.8149422,-6.1846874,0 106.8149905,-6.1846891,0 106.8150637,-6.1846654,0 106.815114,-6.184619,0 106.8151542,-6.184582,0 106.8152795,-6.1843917,0 106.8154425,-6.1841694,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">45</SimpleData>
+		<SimpleData name="osm_id">343915043</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8144938,-6.1816695,0 106.8143822,-6.1818988,0 106.8142699,-6.1820476,0 106.8141407,-6.1822189,0 106.8139234,-6.182579,0 106.8139856,-6.1828515,0 106.8140635,-6.1830702,0 106.8141689,-6.1833459,0 106.8143899,-6.1838744,0 106.8146129,-6.184421,0 106.8147018,-6.1845634,0 106.8147895,-6.1846321,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">46</SimpleData>
+		<SimpleData name="osm_id">343916206</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8167021,-6.1818884,0 106.8166875,-6.1818518,0 106.8166052,-6.1818126,0 106.8163383,-6.1816979,0 106.8160699,-6.1815535,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">47</SimpleData>
+		<SimpleData name="osm_id">343918042</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8110744,-6.1847657,0 106.8110592,-6.1849862,0 106.8113815,-6.1884049,0 106.811374,-6.188576,0 106.811377,-6.1887148,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru Raya</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">48</SimpleData>
+		<SimpleData name="osm_id">343918045</SimpleData>
+		<SimpleData name="width">8</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8130258,-6.1827632,0 106.8129288,-6.1828116,0 106.8127585,-6.1829473,0 106.8123915,-6.1832579,0 106.8121146,-6.1835031,0 106.8118307,-6.1837437,0 106.8113842,-6.184157,0 106.8112548,-6.1842826,0 106.8110915,-6.1846471,0 106.8110744,-6.1847657,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Kebon Jati</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">49</SimpleData>
+		<SimpleData name="osm_id">343918047</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8135903,-6.1884673,0 106.812786,-6.1885812,0 106.8119085,-6.1885802,0 106.8115163,-6.188576,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jati Bunder</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">50</SimpleData>
+		<SimpleData name="osm_id">343919255</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8131775,-6.1890702,0 106.8131171,-6.1888084,0 106.8129914,-6.18866,0 106.812786,-6.1885812,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Kebon Jati</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">51</SimpleData>
+		<SimpleData name="osm_id">343919256</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8137803,-6.1885077,0 106.8147541,-6.1883643,0 106.8149096,-6.1883415,0 106.8151123,-6.1883119,0 106.8151717,-6.1883089,0 106.8152347,-6.1883747,0 106.8152495,-6.1884564,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">52</SimpleData>
+		<SimpleData name="osm_id">344019418</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8113214,-6.1843884,0 106.8115038,-6.1842451,0 106.8118566,-6.1839342,0 106.8119637,-6.1838404,0 106.8122109,-6.1836095,0 106.8126469,-6.1832128,0 106.8128212,-6.1830763,0 106.8129804,-6.1829516,0 106.8132947,-6.1827052,0 106.8134279,-6.1826869,0 106.8135229,-6.1827109,0 106.8136283,-6.1827496,0 106.8137239,-6.1828128,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">53</SimpleData>
+		<SimpleData name="osm_id">344669293</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8140981,-6.1837708,0 106.8142609,-6.1841853,0 106.8144524,-6.184612,0 106.8147627,-6.1850003,0 106.8148419,-6.1850993,0 106.8152736,-6.1856214,0 106.8153644,-6.1857603,0 106.8154308,-6.1859215,0 106.8154636,-6.1860694,0 106.8154573,-6.1867648,0 106.8154573,-6.1869518,0 106.8154668,-6.1871156,0 106.8153809,-6.1881233,0 106.8153615,-6.1882236,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">54</SimpleData>
+		<SimpleData name="osm_id">344669294</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8156333,-6.188478,0 106.8156131,-6.1884273,0 106.8155667,-6.188358,0 106.8155106,-6.1883044,0 106.8154509,-6.1882637,0 106.8153615,-6.1882236,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">55</SimpleData>
+		<SimpleData name="osm_id">344669533</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8156131,-6.1884273,0 106.815576,-6.1883962,0 106.8155247,-6.1883628,0 106.8154823,-6.1883452,0 106.8154274,-6.1883364,0 106.8153672,-6.188354,0 106.8153159,-6.1883822,0 106.8152681,-6.1884191,0 106.8152495,-6.1884564,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">56</SimpleData>
+		<SimpleData name="osm_id">384642555</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8088442,-6.1862138,0 106.8090793,-6.18611,0 106.8091841,-6.1860332,0 106.81012,-6.1853474,0 106.8100878,-6.1850967,0 106.8100031,-6.1851758,0 106.8096729,-6.1854227,0 106.8090674,-6.1858625,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">57</SimpleData>
+		<SimpleData name="bridge">yes</SimpleData>
+		<SimpleData name="osm_id">406823298</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8088442,-6.1862138,0 106.8090365,-6.1860868,0 106.8095079,-6.1857498,0 106.8103043,-6.1851694,0 106.8110441,-6.1846134,0 106.8113214,-6.1843884,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">58</SimpleData>
+		<SimpleData name="osm_id">491571568</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary_link</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8156363,-6.186689,0 106.8156391,-6.1860368,0 106.8156154,-6.1858832,0 106.8155686,-6.185766,0 106.8154975,-6.1856245,0 106.8153857,-6.185477,0 106.8151915,-6.1852557,0 106.8150584,-6.1850385,0 106.8150259,-6.1849314,0 106.8150157,-6.1848404,0 106.8150482,-6.1847555,0 106.8151542,-6.184582,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">59</SimpleData>
+		<SimpleData name="osm_id">491571570</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary_link</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8139379,-6.1831343,0 106.8141554,-6.1836877,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Fakhrudin</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">60</SimpleData>
+		<SimpleData name="osm_id">491571572</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8141554,-6.1836877,0 106.8143377,-6.1841542,0 106.8145283,-6.1845705,0 106.8148063,-6.1849079,0 106.8153218,-6.1855522,0 106.8154113,-6.1856588,0 106.8154854,-6.1857849,0 106.8155432,-6.1859192,0 106.8155608,-6.186051,0 106.8155497,-6.1866973,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan KH. Fakhrudin</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">61</SimpleData>
+		<SimpleData name="osm_id">491571603</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8151395,-6.1849734,0 106.8151459,-6.1848718,0 106.8151489,-6.1848254,0 106.8152052,-6.1846268,0 106.8154425,-6.1841694,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan KH. Fakhrudin</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">62</SimpleData>
+		<SimpleData name="bridge">yes</SimpleData>
+		<SimpleData name="osm_id">491571614</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8167199,-6.182065,0 106.8168133,-6.1819126,0 106.8168472,-6.1818567,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">63</SimpleData>
+		<SimpleData name="osm_id">491571669</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8130028,-6.1836492,0 106.8129545,-6.1836538,0 106.8126098,-6.1835512,0 106.8125669,-6.1837138,0 106.8125857,-6.1837526,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">64</SimpleData>
+		<SimpleData name="osm_id">491571673</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8139341,-6.1833213,0 106.8137994,-6.1834772,0 106.8136599,-6.1836172,0 106.8135794,-6.1837012,0 106.8134735,-6.1837438,0 106.8134078,-6.1837558,0 106.8131637,-6.1837118,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">65</SimpleData>
+		<SimpleData name="osm_id">491571677</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8131395,-6.1838292,0 106.8131637,-6.1837118,0 106.8131194,-6.1836918,0 106.8130028,-6.1836492,0 106.8130188,-6.1835652,0 106.8129625,-6.1833225,0 106.8129126,-6.1832027,0 106.8128212,-6.1830763,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Tanah Rendah III</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">66</SimpleData>
+		<SimpleData name="osm_id">491571688</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8139617,-6.1868622,0 106.8138584,-6.1865362,0 106.8136559,-6.1861909,0 106.8135486,-6.1859835,0 106.8135473,-6.1856315,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">67</SimpleData>
+		<SimpleData name="osm_id">491571689</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8132831,-6.1856835,0 106.8131691,-6.1856649,0 106.8130886,-6.1856595,0 106.8130108,-6.1856982,0 106.8129236,-6.1857302,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">68</SimpleData>
+		<SimpleData name="osm_id">491571690</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8131691,-6.1856649,0 106.8131731,-6.1856155,0 106.813161,-6.1855795,0 106.813149,-6.1853649,0 106.8131262,-6.1853502,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">69</SimpleData>
+		<SimpleData name="osm_id">491571691</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8128365,-6.1854422,0 106.8128888,-6.1854169,0 106.8130202,-6.1853716,0 106.8131262,-6.1853502,0 106.8131288,-6.1853102,0 106.8131141,-6.1853036,0 106.8131181,-6.1852129,0 106.8131248,-6.1851089,0 106.8131235,-6.1849262,0 106.8131593,-6.1845024,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Tanah Rendah IV A</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">70</SimpleData>
+		<SimpleData name="osm_id">491571692</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.812988,-6.1845769,0 106.8129706,-6.1849231,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">71</SimpleData>
+		<SimpleData name="bridge">yes</SimpleData>
+		<SimpleData name="osm_id">491571693</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8127252,-6.1849462,0 106.8126558,-6.1849395,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Tanah Rendah</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">72</SimpleData>
+		<SimpleData name="osm_id">491571694</SimpleData>
+		<SimpleData name="width">3</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8139858,-6.1845228,0 106.8141549,-6.1845621,0 106.8144524,-6.184612,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">73</SimpleData>
+		<SimpleData name="osm_id">491571695</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8126558,-6.1849395,0 106.8124569,-6.1849209,0 106.8124556,-6.1849516,0 106.8122424,-6.1849342,0 106.8121721,-6.1848951,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Tanah Rendah III</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">74</SimpleData>
+		<SimpleData name="osm_id">491571698</SimpleData>
+		<SimpleData name="width">2</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8127252,-6.1849462,0 106.812929,-6.1849222,0 106.8129706,-6.1849231,0 106.8131235,-6.1849262,0 106.8133421,-6.1849436,0 106.8135526,-6.1849649,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Tanah Rendah II</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">75</SimpleData>
+		<SimpleData name="osm_id">491571702</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.812988,-6.1845769,0 106.8130913,-6.1845276,0 106.8131593,-6.1845024,0 106.8131959,-6.1844889,0 106.8132737,-6.1844796,0 106.8133475,-6.1844622,0 106.8134735,-6.1844676,0 106.8136036,-6.1844969,0 106.8137256,-6.1845302,0 106.8139672,-6.1845616,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">76</SimpleData>
+		<SimpleData name="osm_id">491571706</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="highway">path</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.812988,-6.1845769,0 106.8129116,-6.1845742,0 106.8129196,-6.1845169,0 106.812984,-6.1845089,0 106.8130739,-6.1844689,0 106.8131798,-6.1843742,0 106.8134132,-6.1842022,0 106.8136304,-6.1841196,0 106.813786,-6.1841009,0 106.814014,-6.1841329,0 106.8142609,-6.1841853,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">77</SimpleData>
+		<SimpleData name="osm_id">491571716</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.812925,-6.1838559,0 106.8125857,-6.1837526,0 106.8124945,-6.1840246,0 106.8124108,-6.1841947,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">78</SimpleData>
+		<SimpleData name="osm_id">491571720</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8131275,-6.1862565,0 106.8127091,-6.1862599,0 106.8120828,-6.1863018,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">79</SimpleData>
+		<SimpleData name="osm_id">491571723</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.81333,-6.1865632,0 106.8131275,-6.1862565,0 106.8129988,-6.1860619,0 106.8128834,-6.1858859,0 106.8128239,-6.1857972,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">80</SimpleData>
+		<SimpleData name="osm_id">491571727</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8128465,-6.185785,0 106.8127545,-6.1854782,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">81</SimpleData>
+		<SimpleData name="osm_id">491571734</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8127983,-6.1854617,0 106.8127325,-6.1852724,0 106.8126534,-6.1850071,0 106.8126558,-6.1849395,0 106.8126601,-6.1848204,0 106.8128398,-6.1844417,0 106.8127433,-6.1843751,0 106.8126949,-6.1844114,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">82</SimpleData>
+		<SimpleData name="osm_id">491571739</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8128465,-6.185785,0 106.8128239,-6.1857972,0 106.8125904,-6.1859224,0 106.812294,-6.185957,0 106.8120226,-6.185975,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">83</SimpleData>
+		<SimpleData name="osm_id">491571743</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8127983,-6.1854617,0 106.8127545,-6.1854782,0 106.8126172,-6.1855297,0 106.8123879,-6.1855884,0 106.8122041,-6.1856164,0 106.8120821,-6.185607,0 106.8119871,-6.1855775,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru 13</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">84</SimpleData>
+		<SimpleData name="osm_id">491571752</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8119085,-6.1885802,0 106.8119111,-6.1880313,0 106.8118762,-6.1876153,0 106.8118521,-6.187562,0 106.8118253,-6.1871993,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru 13</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">85</SimpleData>
+		<SimpleData name="osm_id">491571756</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8121713,-6.1871567,0 106.8118253,-6.1871993,0 106.8118226,-6.1869727,0 106.8113203,-6.1870047,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru X</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">86</SimpleData>
+		<SimpleData name="osm_id">491571759</SimpleData>
+		<SimpleData name="width">2</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8121188,-6.1865807,0 106.8112889,-6.1865946,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru IV</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">87</SimpleData>
+		<SimpleData name="osm_id">491571760</SimpleData>
+		<SimpleData name="width">2</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8120182,-6.185954,0 106.8112264,-6.1859623,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru III</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">88</SimpleData>
+		<SimpleData name="osm_id">491571761</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8119734,-6.1856575,0 106.8118467,-6.1856607,0 106.8117636,-6.1856554,0 106.8111986,-6.1856578,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru II</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">89</SimpleData>
+		<SimpleData name="osm_id">491571762</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.812284,-6.1847915,0 106.8116884,-6.184128,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan KH. Wahid Hasyim</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">90</SimpleData>
+		<SimpleData name="osm_id">491571763</SimpleData>
+		<SimpleData name="width">6</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8157099,-6.1871469,0 106.8170225,-6.1871499,0 106.8177762,-6.1871366,0 106.8184843,-6.1871239,0 106.8187043,-6.1871152,0 106.8188015,-6.1871111,0 106.8195612,-6.1870792,0 106.8196527,-6.1870746,0 106.8203056,-6.1870419,0 106.8213476,-6.1870013,0 106.8215488,-6.1869933,0 106.822144102732,-6.18698053048276,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Tanah Rendah III</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">91</SimpleData>
+		<SimpleData name="osm_id">491571767</SimpleData>
+		<SimpleData name="width">2</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8135473,-6.1856315,0 106.8135285,-6.1854715,0 106.8135526,-6.1849649,0 106.8137994,-6.1849916,0 106.8138933,-6.1847156,0 106.8139672,-6.1845616,0 106.8139858,-6.1845228,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">92</SimpleData>
+		<SimpleData name="osm_id">492512008</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8132947,-6.1827052,0 106.8134947,-6.1825424,0 106.8135906,-6.1824643,0 106.8137215,-6.1823759,0 106.8137809,-6.1823025,0 106.813753,-6.1822175,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Taman Jatibaru</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">93</SimpleData>
+		<SimpleData name="osm_id">492512023</SimpleData>
+		<SimpleData name="width">5</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8106283,-6.1823015,0 106.8119041,-6.1823107,0 106.8120026,-6.1822181,0 106.8120361,-6.1819468,0 106.8120562,-6.1817506,0 106.8121089,-6.1813069,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Gang Masjid Besar</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">94</SimpleData>
+		<SimpleData name="osm_id">492944999</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8145043,-6.1893146,0 106.8144682,-6.1889275,0 106.8142764,-6.1889048,0 106.81385,-6.1889461,0 106.8138084,-6.1887915,0 106.8137803,-6.1885077,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Gang Haji Said</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">95</SimpleData>
+		<SimpleData name="osm_id">492945000</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.814322,-6.1896308,0 106.8144347,-6.1896308,0 106.8144427,-6.1896961,0 106.8148477,-6.1896921,0 106.8148497,-6.1897334,0 106.8152268,-6.1897334,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Gang Masjid Besar</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">96</SimpleData>
+		<SimpleData name="osm_id">492945001</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8139438,-6.1893738,0 106.8141423,-6.1893404,0 106.8142456,-6.1893418,0 106.8145043,-6.1893146,0 106.8146519,-6.1892991,0 106.8152357,-6.1892232,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">97</SimpleData>
+		<SimpleData name="osm_id">492945015</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8140984,-6.1915849,0 106.8140823,-6.1918802,0 106.8139274,-6.1919089,0 106.813777,-6.1919691,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">98</SimpleData>
+		<SimpleData name="osm_id">492945025</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8140024,-6.1911123,0 106.813765,-6.1911309,0 106.813537,-6.1911603,0 106.8135545,-6.1913563,0 106.8137503,-6.1913656,0 106.813767,-6.1914092,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">99</SimpleData>
+		<SimpleData name="osm_id">492945028</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.813765,-6.1911309,0 106.8137556,-6.191051,0 106.8137637,-6.1910083,0 106.8137986,-6.190967,0 106.8137677,-6.1905503,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Al Habsyi</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">100</SimpleData>
+		<SimpleData name="osm_id">492945032</SimpleData>
+		<SimpleData name="width">3</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8137677,-6.1905503,0 106.8143578,-6.1905396,0 106.814457,-6.1905263,0 106.8145751,-6.190401,0 106.8150915,-6.1904339,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">101</SimpleData>
+		<SimpleData name="bridge">yes</SimpleData>
+		<SimpleData name="osm_id">492945036</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">secondary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.811287,-6.1889715,0 106.8103263,-6.1887797,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jembatan Tinggi</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">102</SimpleData>
+		<SimpleData name="osm_id">492945038</SimpleData>
+		<SimpleData name="width">8</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8113306,-6.1889,0 106.8113803,-6.1890211,0 106.8115282,-6.1891686,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jati Bunder</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">103</SimpleData>
+		<SimpleData name="osm_id">492945042</SimpleData>
+		<SimpleData name="width">4</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8116888,-6.190173,0 106.8122588,-6.1902517,0 106.8126075,-6.1902704,0 106.8127867,-6.1902146,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Gang Tike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">104</SimpleData>
+		<SimpleData name="osm_id">492945046</SimpleData>
+		<SimpleData name="width">3</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8131798,-6.1892817,0 106.811784,-6.1893311,0 106.811776,-6.1893631,0 106.811843,-6.1895551,0 106.8119302,-6.1896671,0 106.8121703,-6.1898577,0 106.8124532,-6.189911,0 106.8127402,-6.1899004,0 106.8128271,-6.1900115,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">105</SimpleData>
+		<SimpleData name="osm_id">492945054</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8137695,-6.1890674,0 106.8137132,-6.1890901,0 106.8134705,-6.1891141,0 106.8131731,-6.1891366,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">106</SimpleData>
+		<SimpleData name="osm_id">492945057</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8139532,-6.1897067,0 106.813905,-6.1896014,0 106.8137722,-6.1894961,0 106.8131893,-6.1894868,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">107</SimpleData>
+		<SimpleData name="osm_id">492945061</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8142161,-6.1898534,0 106.8136555,-6.1898547,0 106.8132559,-6.1898534,0 106.8131451,-6.1897868,0 106.8131204,-6.1897719,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">108</SimpleData>
+		<SimpleData name="osm_id">492945064</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8135456,-6.1901654,0 106.8134369,-6.1901654,0 106.8129152,-6.1901387,0 106.8128846,-6.1899908,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">109</SimpleData>
+		<SimpleData name="osm_id">492945067</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8128493,-6.1906301,0 106.8128871,-6.1903934,0 106.8128898,-6.190192,0 106.8129152,-6.1901387,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Lontar Raya</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">110</SimpleData>
+		<SimpleData name="bridge">yes</SimpleData>
+		<SimpleData name="osm_id">492945069</SimpleData>
+		<SimpleData name="width">4</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8130747,-6.1912547,0 106.8131713,-6.191352,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jati Bunder</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">111</SimpleData>
+		<SimpleData name="osm_id">492945070</SimpleData>
+		<SimpleData name="width">4</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8127942,-6.1900233,0 106.8127867,-6.1902146,0 106.8127706,-6.1906217,0 106.8127781,-6.1909299,0 106.8129151,-6.191096,0 106.8130747,-6.1912547,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Gang Bahaswan</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">112</SimpleData>
+		<SimpleData name="osm_id">492945071</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8140984,-6.1915849,0 106.8139053,-6.1916103,0 106.8139024,-6.1916998,0 106.81372,-6.1916665,0 106.8137133,-6.1916252,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Gang Bahaswan</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">113</SimpleData>
+		<SimpleData name="osm_id">492945072</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8134092,-6.1916009,0 106.8137133,-6.1916252,0 106.813767,-6.1914092,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">114</SimpleData>
+		<SimpleData name="osm_id">492945073</SimpleData>
+		<SimpleData name="width">2</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.813767,-6.1914092,0 106.8139078,-6.1914105,0 106.8140406,-6.1913798,0 106.8142431,-6.1912918,0 106.8146709,-6.1912625,0 106.8149064,-6.1912929,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jati Bunder VII</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">115</SimpleData>
+		<SimpleData name="osm_id">492945088</SimpleData>
+		<SimpleData name="width">2</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8127781,-6.1909299,0 106.8122386,-6.1909642,0 106.8119358,-6.1909926,0 106.8118648,-6.1912906,0 106.8118637,-6.1912904,0 106.8112803,-6.1911274,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">116</SimpleData>
+		<SimpleData name="osm_id">492945090</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8132509,-6.1911083,0 106.8132777,-6.1910843,0 106.8132924,-6.1906776,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">117</SimpleData>
+		<SimpleData name="osm_id">492945091</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8134949,-6.1906443,0 106.8132924,-6.1906776,0 106.8128493,-6.1906301,0 106.8127706,-6.1906217,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">118</SimpleData>
+		<SimpleData name="osm_id">492962277</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8111239,-6.1917523,0 106.8112848,-6.1918083,0 106.8113264,-6.1918429,0 106.8113666,-6.1918722,0 106.8114953,-6.1918922,0 106.8116053,-6.1919229,0 106.8116883,-6.1919475,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">119</SimpleData>
+		<SimpleData name="osm_id">492962283</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8111534,-6.1916083,0 106.8112807,-6.1916536,0 106.8113626,-6.1916483,0 106.8114498,-6.1916816,0 106.8115396,-6.1917296,0 106.8115664,-6.1917443,0 106.8116281,-6.1917816,0 106.8117312,-6.1917916,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">120</SimpleData>
+		<SimpleData name="osm_id">492962286</SimpleData>
+		<SimpleData name="width">1</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">living_street</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.811207,-6.1914456,0 106.8113465,-6.1914776,0 106.811384,-6.1915043,0 106.8114498,-6.1915149,0 106.8115021,-6.1915176,0 106.8115369,-6.1915229,0 106.8115946,-6.1915176,0 106.8117139,-6.1915456,0 106.8117959,-6.1915567,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Cideng Timur</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">121</SimpleData>
+		<SimpleData name="osm_id">493578195</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8135801,-6.1819688,0 106.8134835,-6.1816036,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Cideng Timur</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">122</SimpleData>
+		<SimpleData name="osm_id">493578196</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8134835,-6.1816036,0 106.8133473,-6.1806298,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">123</SimpleData>
+		<SimpleData name="osm_id">493636107</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary_link</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8136771,-6.1819883,0 106.8136471,-6.1818542,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">124</SimpleData>
+		<SimpleData name="osm_id">495395285</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.81012,-6.1853474,0 106.8101241,-6.1853888,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan K.S. Tubun I</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">125</SimpleData>
+		<SimpleData name="osm_id">495395286</SimpleData>
+		<SimpleData name="width">2.5</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="highway">residential</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8101241,-6.1853888,0 106.8102247,-6.1864461,0 106.8103132,-6.1873474,0 106.8103641,-6.1878247,0 106.8104634,-6.1886434,0 106.8102944,-6.1887314,0 106.8102353,-6.188766,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Bakti</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">126</SimpleData>
+		<SimpleData name="osm_id">496838336</SimpleData>
+		<SimpleData name="width">4</SimpleData>
+		<SimpleData name="oneway">no</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">tertiary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.808730487631,-6.17766355857069,0 106.8088041,-6.1777697,0 106.8094297,-6.17867,0 106.809596,-6.1789074,0 106.8098133,-6.1792247,0 106.8100118,-6.1795527,0 106.8100976,-6.17983,0 106.8101647,-6.1802327,0 106.8102263,-6.1808327,0 106.8102964,-6.181395,0 106.8103538,-6.1820629,0 106.8104638,-6.1833429,0 106.8105724,-6.1845482,0 106.8106167,-6.1849962,0 106.8107253,-6.1860755,0 106.8107843,-6.1868434,0 106.8108863,-6.1879847,0 106.8109386,-6.1885687,0 106.8109386,-6.1887327,0 106.8108661,-6.189088,0 106.8107696,-6.1895173,0 106.8104289,-6.1907106,0 106.8102144,-6.1915319,0 106.81004,-6.1921213,0 106.809922,-6.1926332,0 106.8098791,-6.1932119,0 106.8098938,-6.1937865,0 106.8099864,-6.1942678,0 106.8101567,-6.1950358,0 106.810284754992,-6.19566836080563,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Kebon Jati</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">127</SimpleData>
+		<SimpleData name="osm_id">497048617</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8131775,-6.1890702,0 106.8132123,-6.1887364,0 106.8132721,-6.1885893,0 106.813418,-6.1885608,0 106.8134699,-6.1885525,0 106.8135864,-6.1885381,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Kebon Jati</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">128</SimpleData>
+		<SimpleData name="bridge">yes</SimpleData>
+		<SimpleData name="osm_id">497048618</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8135864,-6.1885381,0 106.8137803,-6.1885077,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Kebon Jati</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">129</SimpleData>
+		<SimpleData name="osm_id">497048619</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8153615,-6.1882236,0 106.8150938,-6.1882605,0 106.8137701,-6.188439,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Kebon Jati</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">130</SimpleData>
+		<SimpleData name="bridge">yes</SimpleData>
+		<SimpleData name="osm_id">497048620</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8137701,-6.188439,0 106.8135903,-6.1884673,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Kebon Sirih</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">131</SimpleData>
+		<SimpleData name="bridge">yes</SimpleData>
+		<SimpleData name="osm_id">497048630</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.817032,-6.1819318,0 106.8168472,-6.1818567,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">132</SimpleData>
+		<SimpleData name="bridge">yes</SimpleData>
+		<SimpleData name="osm_id">497048637</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8167199,-6.182065,0 106.8167156,-6.1819809,0 106.8167021,-6.1818884,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan KH. Fakhrudin</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">133</SimpleData>
+		<SimpleData name="osm_id">497048640</SimpleData>
+		<SimpleData name="width">10</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8154425,-6.1841694,0 106.8166849,-6.1821412,0 106.8167199,-6.182065,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan KH. Mas Mansyur</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">134</SimpleData>
+		<SimpleData name="osm_id">508304348</SimpleData>
+		<SimpleData name="width">8</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8152254,-6.1898126,0 106.8150915,-6.1904339,0 106.8149064,-6.1912929,0 106.8148424,-6.1915895,0 106.8146625,-6.1924227,0 106.8146303,-6.1927796,0 106.8145863,-6.1930005,0 106.8145449,-6.193312,0 106.8144676,-6.1937833,0 106.8143995,-6.1946207,0 106.8143819,-6.1950981,0 106.8143663,-6.1956402,0 106.814365432862,-6.19566836080563,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan KH. Mas Mansyur</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">135</SimpleData>
+		<SimpleData name="osm_id">508304349</SimpleData>
+		<SimpleData name="width">8</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">good</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.814454435571,-6.19566836080563,0 106.814459,-6.1955327,0 106.8145373,-6.1945973,0 106.8145809,-6.1939919,0 106.8146539,-6.1935147,0 106.8147361,-6.1928716,0 106.8147603,-6.1926216,0 106.8149631,-6.1916209,0 106.8151216,-6.1908385,0 106.815247,-6.1901796,0 106.8152529,-6.1901305,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">136</SimpleData>
+		<SimpleData name="bridge">yes</SimpleData>
+		<SimpleData name="osm_id">512222093</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">footway</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8155466,-6.1868111,0 106.8157252,-6.1868225,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">137</SimpleData>
+		<SimpleData name="osm_id">512222315</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">steps</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8147379,-6.1850914,0 106.8147042,-6.1850517,0 106.8147627,-6.1850003,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">138</SimpleData>
+		<SimpleData name="bridge">yes</SimpleData>
+		<SimpleData name="osm_id">512222316</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">footway</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8150048,-6.1845684,0 106.8150348,-6.1848694,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru Raya</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">139</SimpleData>
+		<SimpleData name="osm_id">520933398</SimpleData>
+		<SimpleData name="width">8</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="smoothness">intermediate</SimpleData>
+		<SimpleData name="highway">primary_link</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.813362,-6.181762,0 106.8133907,-6.1822828,0 106.8133851,-6.182335,0 106.8133666,-6.1823964,0 106.8133214,-6.1824685,0 106.8132453,-6.1825769,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">140</SimpleData>
+		<SimpleData name="osm_id">528669047</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8134947,-6.1825424,0 106.8137045,-6.1825103,0 106.8138391,-6.1825344,0 106.8139234,-6.182579,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Jalan Jatibaru</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">141</SimpleData>
+		<SimpleData name="osm_id">540127947</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8115163,-6.188576,0 106.811377,-6.1887148,0 106.8113306,-6.1889,0 106.811287,-6.1889715,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">142</SimpleData>
+		<SimpleData name="osm_id">540127948</SimpleData>
+		<SimpleData name="oneway">yes</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8137239,-6.1828128,0 106.8138802,-6.183179,0 106.8139341,-6.1833213,0 106.8140981,-6.1837708,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">143</SimpleData>
+		<SimpleData name="bridge">yes</SimpleData>
+		<SimpleData name="osm_id">551832804</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">footway</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8152008,-6.184888,0 106.8150348,-6.1848694,0 106.8147379,-6.1850914,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">144</SimpleData>
+		<SimpleData name="osm_id">551832805</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">steps</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8151489,-6.1848254,0 106.8152042,-6.1848294,0 106.8152008,-6.184888,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Jalan2">
+		<SimpleData name="fid">145</SimpleData>
+		<SimpleData name="osm_id">551832806</SimpleData>
+		<SimpleData name="railway">Way</SimpleData>
+		<SimpleData name="highway">steps</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.815114,-6.184619,0 106.8150558,-6.1845687,0 106.8150048,-6.1845684,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

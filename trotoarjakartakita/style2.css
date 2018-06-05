@@ -1,0 +1,152 @@
+*{
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Noto Sans', sans-serif;
+
+}
+.rightbar,label{
+	color: #3b3b3b;
+}
+
+
+.formap100{
+			width: 100vw;
+			height: 100vh;
+		}
+		.rightbar{
+			position: absolute;
+			z-index: 1000;
+			background: rgba(254, 254, 254, 0.92);
+			min-height: 50vh;
+			width: 20vw;
+			top: 8vh;
+			right: 3vh;
+			border-radius: 2px;
+			padding: 20px 20px;
+
+			-webkit-box-shadow: 0px 0px 18px 3px rgba(102,102,102,1);
+			-moz-box-shadow: 0px 0px 18px 3px rgba(102,102,102,1);
+			box-shadow: 0px 0px 18px 3px rgba(102,102,102,1);
+		}
+		.leftbar{
+			position: absolute;
+			z-index: 1000;
+			background: #252525db;
+			min-height: 20vh;
+			top: 24vh;
+			left: 2vh;
+			width: 204px;
+			height: 145px;
+			border-radius: 5px;
+		}
+		.button-right{
+			position: absolute;
+			z-index: 1000;
+			top: 10px;
+			right: 1vh;
+			text-align: right;
+		}
+		.button-panel{
+			padding: 8px 16px;
+		    /* border-radius: 100px; */
+		    width: max-content;
+		    display: inline-block;
+		    margin-left: 7px;
+		    transition: 0.1s;
+		    cursor: pointer;
+		    width: 87px;
+		    text-align: center;
+		    background: #fff;
+		}
+
+		.button-panel:hover{
+			background: #cdcdcd;
+			color: #111;
+		}
+		.btnicon{
+			margin: auto;
+		}
+		.bt1{
+			background: #ff9800;
+		}
+		.bt2{
+			background: #8bc34a;
+		}
+		.bt3{
+			background: #2196f3;
+		}
+		label{
+    		display: inherit;
+		}
+		.selectedMarker{
+			display: none;
+		}
+		
+		.bottom{
+		position: absolute;
+		z-index: 1000;
+		bottom: 20px;
+		left: 20px;
+		width: 300px;
+		height:300px;
+		background: #fff;
+		display: none;
+		}
+		
+		#statistik1{
+		background-color: transparent;
+		background-repeat: no-repeat;
+		border: none;
+		cursor: pointer;
+		overflow: hidden;
+		outline: none;
+		}
+		
+		#cctv1{
+		background-color: Transparent;
+		background-repeat:no-repeat;
+		border: none;
+		cursor:pointer;
+		overflow: hidden;
+		outline:none;
+		}
+		.popup{
+			padding: 15px;
+			width: 200px;
+		}
+		.popup img{
+			width: 100%;
+		}
+		.descpop{
+			margin-top: 20px;
+		}
+		.descpop td{
+			padding: 2px 5px;
+		}
+		.leaflet-popup-content{
+			width: 200px !important;
+		}
+
+
+		.leaflet-heatmap-layer{
+			display: none;
+		}
+		label{
+			margin-left: 20px;
+		}
+
+
+
+
+		/*CHART*/
+		#statbod{
+			width: 72%;
+    		left: -12vw;
+		}
+		#population_chart{
+			height: 50vh;
+		}
+		#neighborhood_chart{
+			position: right;
+			height: 50vh;
+		}

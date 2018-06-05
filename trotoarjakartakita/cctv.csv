@@ -1,0 +1,11 @@
+ID,Keterangan Laporan,Foto Laporan,Status,Tanggal lapor,Tanggal ditindaklanjuti(Complete),Kategori,Lat,Lng,Kelurahan,Kecamatan,Kota,Provinsi,
+CCTV1,CCTV Tanah Abang,http://202.51.112.91:805/image2,ON,,,CCTV,-6.18933,106.813133,,,Jakarta Pusat,DAERAH KHUSUS IBUKOTA JAKARTA,Saturday
+CCTV2,CCTV Dukuh Atas,http://202.51.112.91:787/mjpg/video.mjpg,ON,,,CCTV,-6.204322,106.822982,,,Jakarta Pusat,DAERAH KHUSUS IBUKOTA JAKARTA,Saturday
+CCTV3,CCTV Kampung Melayu,http://202.51.112.91:701/image2,ON,,,CCTV,-6.225536,106.866903,,,Jakarta Pusat,DAERAH KHUSUS IBUKOTA JAKARTA,Saturday
+CCTV4,CCTV Patung Kuda,http://202.51.112.91:786/image2,ON,,,CCTV,-6.180335,106.822824,,,Jakarta Pusat,DAERAH KHUSUS IBUKOTA JAKARTA,Saturday
+CCTV5,CCTV Petojo,http://202.51.112.91:757/image2,ON,,,CCTV,-6.169936,106.816973,,,Jakarta Pusat,DAERAH KHUSUS IBUKOTA JAKARTA,Saturday
+CCTV6,CCTV Galur,http://202.51.112.91:603/image2,ON,,,CCTV,-6.174347,106.854723,,,Jakarta Pusat,DAERAH KHUSUS IBUKOTA JAKARTA,Saturday
+CCTV7,CCTV RS Tarakan,http://202.51.112.91:756/image2,ON,,,CCTV,-6.171101,106.810072,,,Jakarta Pusat,DAERAH KHUSUS IBUKOTA JAKARTA,Saturday
+CCTV8,CCTV Pademangan,http://202.51.112.91:661/image2,ON,,,CCTV,-6.133836,106.831636,,,Jakarta Pusat,DAERAH KHUSUS IBUKOTA JAKARTA,Saturday
+CCTV9,CCTV Kramat Sentiong,http://202.51.112.91:652/image2,ON,,,CCTV,-6.188121,106.846182,,,Jakarta Pusat,DAERAH KHUSUS IBUKOTA JAKARTA,Saturday
+CCTV10,CCTV Simpang Tanah Abang Blok G,http://202.51.112.91:804/image2,ON,,,CCTV,-6.19327,106.811226,,,Jakarta Pusat,DAERAH KHUSUS IBUKOTA JAKARTA,Saturday

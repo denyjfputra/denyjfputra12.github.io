@@ -1,0 +1,273 @@
+*{
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Noto Sans', sans-serif;
+
+}
+.rightbar,label{
+	color: #3b3b3b;
+}
+
+.formap100{
+			width: 99.85vw;
+			height: 99.85vh;
+		}
+  		
+  		#time-ranges {
+    	position: absolute;
+    	top: 75vh;
+    	left: 10px;
+    	z-index: 1000;
+    	padding: 1em;
+    	background: white;
+  		}
+
+  		#time-ranges input {
+    	display: inline-block;
+   	 	border: 1px solid #999;
+    	font-size: 14px;
+    	border-radius: 4px;
+    	height: 28px;
+    	line-height: 28px;
+  		}
+  	
+  		#time-ranges input[type='submit'] {
+    	box-sizing: content-box;
+    	padding: 0 1em;
+    	text-transform: uppercase;
+    	color: white;
+    	background: #5C7DB8;
+    	border-color: #5C7DB8;
+  		}
+		
+		.rightbar{
+			position: absolute;
+			z-index: 1000;
+			background: rgba(254, 254, 254, 0.92);
+			min-height: 49vh;
+			width: 21.5vw;
+			top: 8vh;
+			right: 2.5vh;
+			border-radius: 2px;
+			padding: 20px 20px;
+
+			-webkit-box-shadow: 0px 0px 18px 3px rgba(102,102,102,1);
+			-moz-box-shadow: 0px 0px 18px 3px rgba(102,102,102,1);
+			box-shadow: 0px 0px 18px 3px rgba(102,102,102,1);
+		}
+		.leftbar{
+			position: absolute;
+			z-index: 1000;
+			background: #252525db;
+			min-height: 20vh;
+			top: 24vh;
+			left: 2vh;
+			width: 204px;
+			height: 145px;
+			border-radius: 5px;
+		}
+		.button-right{
+			position: absolute;
+			z-index: 1000;
+			top: 10px;
+			right: 1vh;
+			text-align: right;
+		}
+		.button-panel{
+			padding: 8px 16px;
+		    /* border-radius: 100px; */
+		    width: max-content;
+		    display: inline-block;
+		    margin-left: 7px;
+		    transition: 0.1s;
+		    cursor: pointer;
+		    width: 87px;
+		    text-align: center;
+		    background: #fff;
+		}
+
+		.button-panel:hover{
+			background: #cdcdcd;
+			color: #111;
+		}
+		.btnicon{
+			margin: auto;
+		}
+		.bt1{
+			background: #ff9800;
+		}
+		.bt2{
+			background: #8bc34a;
+		}
+		.bt3{
+			background: #2196f3;
+		}
+		label{
+    		display: inherit;
+		}
+		.selectedMarker{
+			display: none;
+		}
+		
+		.bottom{
+		position: absolute;
+		z-index: 1000;
+		bottom: 20px;
+		left: 20px;
+		width: 300px;
+		height:300px;
+		background: #fff;
+		display: none;
+		}
+		
+		#statistik1{
+		background-color: transparent;
+		background-repeat: no-repeat;
+		border: none;
+		cursor: pointer;
+		overflow: hidden;
+		outline: none;
+		}
+		.popup{
+			padding: 10px;
+			width: 300px;
+		}
+		.popup img{
+			width: 100%;
+		}
+		.descpop{
+			margin-top: 20px;
+		}
+		.descpop td{
+			padding: 2px 5px;
+		}
+		.leaflet-popup-content{
+			width: 300px !important;
+		}
+
+
+		/* Style the tab */
+		.tab {
+		    overflow: hidden;
+		    border: 1px solid #ccc;
+		    background-color: #f1f1f1;
+		}
+
+		/* Style the buttons that are used to open the tab content */
+		.tab button {
+		    background-color: inherit;
+		    float: left;
+		    border: none;
+		    outline: none;
+		    cursor: pointer;
+		    padding: 14px 16px;
+		    transition: 0.3s;
+		}
+
+		/* Change background color of buttons on hover */
+		.tab button:hover {
+		    background-color: #ddd;
+		}
+
+		/* Create an active/current tablink class */
+		.tab button.active {
+		    background-color: #ccc;
+		}
+
+		/* Style the tab content */
+		.tabcontent {
+		    display: none;
+		    padding: 6px 12px;
+		    border: 1px solid #ccc;
+		    border-top: none;
+		}
+		.leaflet-heatmap-layer{
+			display: none;
+		}
+		label{
+			margin-left: 20px;
+		}
+
+		/*CHART*/
+		#statbod{
+			width: 72%;
+    		left: -12vw;
+		}
+		#statbod2{
+			width: 74%;
+    		left: -10vw;
+		}
+		#population_chart{
+			height: 50vh;
+		}
+		#neighborhood_chart{
+			position: right;
+			height: 50vh;
+		}
+		#heatmapchart{
+			position: center;
+			height: 50vh;
+			margin-top: 20px;
+		}
+		#stack_total_chart{
+			margin-top: 20px;
+		}
+		#parallelchart{
+			width: 949px;
+			height: 390px;
+		}
+		#parallelchart2{
+			width: 949px;
+			height: 390px;
+		}
+		#parallelchart3{
+			width: 949px;
+			height: 390px;
+		}
+		#parallelchart4{
+			width: 949px;
+			height: 390px;
+		}
+		.highcharts-series-hover path {
+  		stroke: rgb(255, 66, 66);
+  		stroke-width: 1px;
+		}
+		.button {
+		  display: inline-block;
+		  border-radius: 4px;
+		  background-color: #f4511e;
+		  border: none;
+		  color: #FFFFFF;
+		  text-align: center;
+		  font-size: 12px;
+  		  padding: 10px;
+  		  width: 200px;
+		  transition: all 0.5s;
+		  cursor: pointer;
+		  margin: 5px;
+		}
+
+		.button span {
+		  cursor: pointer;
+		  display: inline-block;
+		  position: relative;
+		  transition: 0.5s;
+		}
+
+		.button span:after {
+		  content: '\00bb';
+		  position: absolute;
+		  opacity: 0;
+		  top: 0;
+		  right: -20px;
+		  transition: 0.5s;
+		}
+
+		.button:hover span {
+		  padding-right: 25px;
+		}
+
+		.button:hover span:after {
+		  opacity: 1;
+		  right: 0;
+		}

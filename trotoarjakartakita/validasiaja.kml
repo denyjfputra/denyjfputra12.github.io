@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="validasi" id="validasi">
+	<SimpleField name="Id" type="string"></SimpleField>
+</Schema>
+<Folder><name>validasi</name>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8191866753,-6.16968485093469,0 106.819076748204,-6.16972607359554,0 106.818729818787,-6.16985617212714,0 106.817973597842,-6.17000050229592,0 106.815211656526,-6.17050857188019,0 106.813421743518,-6.17080420315784,0 106.81193574335,-6.17104335496805,0 106.810710172014,-6.1712367015889,0 106.80925,-6.171464,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8148419,-6.1850993,0 106.815014146136,-6.18530761528308,0 106.815126983162,-6.18544408091026,0 106.8152736,-6.1856214,0 106.8154308,-6.1859215,0 106.81546180759,-6.18626724791716,0 106.815461909385,-6.18650762460726,0 106.815462132772,-6.1870351271707,0 106.815388216925,-6.18756122347003,0 106.815315,-6.188134,0 106.814966337476,-6.18827821264045,0 106.814352910255,-6.18836345664323,0 106.813789,-6.188457,0 106.813306318502,-6.18850889471202,0 106.812786,-6.1885812,0 106.812333089033,-6.18858696186396,0 106.812004803266,-6.1885696783869,0 106.8115416,-6.1885234,0 106.811492511877,-6.18817769814069,0 106.811422020351,-6.18768126335488,0 106.811345610346,-6.18714314783927,0 106.81124367126,-6.18673997489151,0 106.811157,-6.186465,0 106.81114918073,-6.18617464444452,0 106.811145338786,-6.18603198024772,0 106.811139567248,-6.18581766379043,0 106.811131243035,-6.18550855803051,0 106.811142,-6.184793,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.815416937355,-6.18843328998855,0 106.8154274,-6.1883364,0 106.815340005205,-6.18833029197134,0 106.815225791077,-6.18837669146092,0 106.81454764469,-6.18845878286572,0 106.813880205878,-6.18852302831289,0 106.813138142114,-6.18859111214613,0 106.812808750038,-6.18863010665126,0 106.812391947258,-6.18864370099737,0 106.812302114561,-6.18864663096048,0 106.812068907487,-6.18865789926303,0 106.811871609712,-6.18868044758,0 106.811489138885,-6.18872415853167,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.815490599166,-6.1885790379348,0 106.8155247,-6.1883628,0 106.815573983652,-6.18802016583572,0 106.815631456227,-6.18746270148279,0 106.81564127355,-6.18712857403051,0 106.81562717697,-6.18633726135727,0 106.8156154,-6.1858832,0 106.8154975,-6.1856245,0 106.815063,-6.185094,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.81564127355,-6.18712857403051,0 106.815883133934,-6.1871826188808,0 106.816388139076,-6.18718356748235,0 106.816623413448,-6.1871772142589,0 106.8172646,-6.1871599,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.821088638112,-6.20979648689206,0 106.821384063721,-6.20912151559673,0 106.821588990295,-6.20837665141619,0 106.8217388,-6.2076807,0 106.821833730883,-6.20704117087979,0 106.82193754273,-6.20634181259572,0 106.822054093734,-6.20545263770998,0 106.82211720282,-6.20489981268804,0 106.8221736,-6.2044655,0 106.822281546559,-6.20404534154312,0 106.8224415,-6.2035865,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8291206,-6.20349706,0 106.828006709449,-6.203185425512,0 106.8275499,-6.2031724,0 106.826316064581,-6.20287112098578,0 106.824753133776,-6.2025158038586,0 106.82359,-6.2022336,0 106.82304322757,-6.20205592995325,0 106.823125047084,-6.20158431134524,0 106.82326658024,-6.2007684953403,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8464027,-6.18910019999987,0 106.846244445747,-6.18882832185915,0 106.845997057719,-6.18842309963537,0 106.8458053,-6.188109,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.861598650437,-6.17247825498896,0 106.860495554617,-6.17295830948137,0 106.8596024,-6.173347,0 106.859213472148,-6.17344418779675,0 106.858731975835,-6.17356450719672,0 106.857998510414,-6.17374779026045,0 106.857496148841,-6.17384899683805,0 106.856939919004,-6.17394029616224,0 106.856230955886,-6.17402751402108,0 106.855087268429,-6.17418362092758,0 106.854338,-6.1742894,0 106.853936946661,-6.17432213142263,0 106.853053690428,-6.17439421717842,0 106.8521913,-6.1744646,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.861736541207,-6.17292072420713,0 106.861082033912,-6.17316596901878,0 106.8604779,-6.1733732,0 106.86007851148,-6.17344867457871,0 106.859340619323,-6.1736565485723,0 106.858617163601,-6.17386035563072,0 106.85803638336,-6.1740239691166,0 106.857462916656,-6.17413226025491,0 106.856637227575,-6.17425395726548,0 106.855696530268,-6.17435336605814,0 106.854756965134,-6.17445846917264,0 106.853711221163,-6.17457635711548,0 106.852985322131,-6.17465818856368,0 106.8521842,-6.1747485,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#validasi">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8464027,-6.18910019999987,0 106.846180825928,-6.1892103874614,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Safety Pedestrian Walk</title>
+
+	<!-- libraries -->
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.0/leaflet.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+	<!-- <link rel="stylesheet" type="text/css" href="http://code.ionicframework.com/ionicons/1.5.2/css/ionicons.min.css"> -->
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+<body style="background-color: black">
+
+<!-- Type here for modification -->
+<div class="formap100" id="map"></div>
+
+<!--Time stamp -->
+	<div class="left-panel">
+		<div id="time-ranges" class="leaflet-bar">
+  	<form action="#" id="form">
+    <label for="from">
+      From
+      <input id='from' type="date" value='2017-10-01' name='from'>
+    </label>
+    <label for="to">
+      To
+      <input  id='to' type="date" value='2018-02-01' name='to'>
+    </label>
+    <input type="submit" value="Update">
+  </form>
+	</div>
+	</div>
+	
+
+<div class="col-md-3 button-right">
+	<div class="button-panel bt1" id="toggleicon">
+		<i class="fa fa-circle-o btnicon" aria-hidden="true" id="checkall" data-attrib='1'></i>
+	</div>
+	<div class="button-panel bt2" id="showhidepanel">
+		<i class="fa fa-list-alt btnicon" aria-hidden="true"></i>
+	</div>
+	<div class="button-panel bt3" data-toggle="modal" data-target="#myModal">
+		<i class="fa fa-info-circle btnicon" aria-hidden="true"></i>
+	</div>
+</div>
+<div class="col-md-3 rightbar">
+	<i class="fa fa-exclamation-circle" style="font-size: 20px;"></i> <b>LAPORAN PELANGGARAN</b>
+	<label style="margin-top: 10px;">
+		<input type="checkbox" class="checktype" data-type="motor" id="motor">
+		Motor
+	</label>
+	<label style="">
+		<input type="checkbox" class="checktype" data-type="pkl" id="pkl">
+		Pedagang kaki lima
+	</label>
+	<label style="">
+		<input type="checkbox" class="checktype" data-type="parkir" id="parkir">
+		Parkir liar
+	</label>
+	<br/>
+	<i class="fa fa-globe" style="font-size: 20px;"></i> <b>VISUAL DISPLAY</b>
+	<label style="margin-top: 10px;">
+		<input type="checkbox" class="showhideheatmap" data-type="heatmap" id="heatmap">
+		Heatmap Titik Pelanggaran
+	</label>
+	<label style="margin-top: 5px;">
+		<input type="checkbox" class="checktype" data-type="kemacetan" id="kemacetan">
+		Kemacetan
+	</label>
+	<label style="margin-top: 5px;">
+		<input type="checkbox" class="checktype" data-type="cctv" id="cctv">
+		Streaming CCTV Online
+	</label>
+	<br/>
+	<i class="fa fa-pie-chart" style="font-size: 20px;"></i> <b>STATISTIK</b>
+	<label style="margin-top: 5px;">
+		<input type="checkbox" class="statistik" data-type="statistik" id="statistik">
+		Tampilkan Statistik
+	</label>
+	<label style="margin-top: 5px;">
+		<input type="checkbox" class="statistik2" data-type="statistik2" id="statistik2">
+		Parallel Coordinate Plot
+	</label>
+	<br/>
+	<center>
+	<img src="https://www.onlinevolunteering.org/sites/default/files/organization/plj-logo.png" style="height:100px"> 
+	<img <img src="https://katamata.files.wordpress.com/2013/09/logo-ugm.png?w=380&h=394" style="height:60px"> 
+	</center>
+</div>
+
+<div class="col-md-3 panel-logo" align="center">
+
+</div>
+
+<div class="bottom">
+	<div class="modal-footer">
+        <button id="closeA" type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+</div>
+
+<!-- Modal -->
+<div id="statistik_modal" class="modal fade" role="dialog">
+  <div class="modal-dialog" id="statbod">
+
+    <!-- Modal content-->
+    <div class="modal-content" style="height: 180vh">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Statistik</h4>
+      </div>
+      <div class="modal-body" id="statistik_body">
+        	<div class="col-md-6" id="population_chart">
+        	</div>
+        	<div class="col-md-6" id="neighborhood_chart">
+        	</div>
+        	<div class="col-md-12" id="stack_total_chart">
+        	</div>
+        	<div class="col-md-12" id="heatmapchart" style="position: center">
+        	</div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- Modal 2 -->
+<div id="statistik_modal2" class="modal fade" role="dialog">
+	<div class="modal-dialog" id="statbod2">
+
+	<!-- Modal Content -->
+	<div class="modal-content" style="height: 80vh">
+	<div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Parallel Coordinate Plot</h4>
+		<div class="modal-body" id="statistik_body2">
+			</div>
+        	<div class="col-md-12" id="parallelchart" style="position: center">
+        	</div>
+        </div>
+	</div>
+	</div>
+
+</div>
+
+<!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Informasi</h4>
+      </div>
+      <div class="modal-body">
+        <p>Aplikasi ini dibuat untuk menganalisis pelanggaran yang terjadi di jalur pedestrian.
+		<br>
+		<br>
+		Cara menggunakan aplikasi:
+		<br>
+		1. Klik pada atribut di laman legenda untuk mengetahui posisi terjadinya tindak pelanggaran <br>
+		2. Klik tombol statistik untuk mengetahui frekuensi pelanggaran yang terjadi <br>
+		3. Untuk melihat frekuensi pelanggaran melalui heatmap, ceklis button "heatmap" <br>
+		4. Untuk mengganti layer pada basemap, klik tombol layer control di sisi kiri atas
+		</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- libraries -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.0/leaflet.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<!-- libraries Omnivore-->
+<script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
+
+<!-- heatmap -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.heat/0.2.0/leaflet-heat.js"></script>
+
+<!--Clustering -->
+<script type="text/javascript" src="https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js"></script>
+<script type="text/javascript" src="https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster-src.js"></script>
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css">
+
+<!-- Leaflet TimeDimension -->
+
+
+<!-- D3js -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js"></script>
+
+<!-- HIGHCHART -->
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/heatmap.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/parallel-coordinates.js"></script>
+
+<!-- selfjs -->
+<script type="text/javascript">
+	$(document).ready(function(){
+		// globalvariable
+		var marker = [];
+		var heatmapmarker = [];
+		var datapopulation = [];
+		var neighborhood = [];
+		var kml
+
+		var totpel = [0,0,0,0];
+		var totpkl = [0,0,0,0];
+		var totparkir = [0,0,0,0];
+		var totkem = [0,0,0,0];
+
+		var seninpel = 0;
+		var seninpkl = 29;
+		var seninliar = 19;
+		var selasapel = 1;
+		var selasapkl = 37;
+		var selasaliar = 16;
+		var rabupel = 4;
+		var rabupkl = 22;
+		var rabuliar = 34;
+		var kamispel = 1;
+		var kamispkl = 13;
+		var kamisliar = 9;
+		var jumatpel = 0;
+		var jumatpkl = 41;
+		var jumatliar = 23;
+		var sbtpel = 1;
+		var sbtpkl = 20;
+		var sbtliar = 20;
+		var sunpel = 2;
+		var sunpkl = 7;
+		var sunliar = 12;
+
+		// draw statistic
+		function drawstat(){
+
+			Highcharts.setOptions({
+			 colors: ['#f59630','#72af26','#38a9db','#d53e2a','#FFFF00','#696969','#ADD8E6','#3CB371']
+			});
+
+			// FIRST PIE CHART POPULATION
+			Highcharts.chart('population_chart', {
+			    chart: {
+			        plotBackgroundColor: null,
+			        plotBorderWidth: null,
+			        plotShadow: false,
+			        type: 'pie'
+			    },
+			    title: {
+			        text: 'Jumlah Laporan Setiap Atribut Pelanggaran, Oktober 2017 s.d. Januari 2018'
+			    },
+			    tooltip: {
+			        pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+			    },
+			    plotOptions: {
+			        pie: {
+			            allowPointSelect: true,
+			            cursor: 'pointer',
+			            dataLabels: {
+			                enabled: true,
+			                format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+			                style: {
+			                    color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+			                }
+			            }
+			        }
+			    },
+			    series: [{
+			        name: 'Persentase',
+			        colorByPoint: true,
+			        data: datapopulation
+			    }]
+			});
+
+
+			// SECOND PIE CHART
+			Highcharts.chart('neighborhood_chart', {
+			    chart: {
+			        plotBackgroundColor: null,
+			        plotBorderWidth: null,
+			        plotShadow: false,
+			        type: 'pie'
+			    },
+			    title: {
+			        text: 'Jumlah Laporan per Kecamatan, Oktober 2017 s.d. Januari 2018'
+			    },
+			    tooltip: {
+			        pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+			    },
+			    plotOptions: {
+			        pie: {
+			            allowPointSelect: true,
+			            cursor: 'pointer',
+			            dataLabels: {
+			                enabled: true,
+			                format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+			                style: {
+			                    color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+			                }
+			            }
+			        }
+			    },
+			    series: [{
+			        name: 'Persentase',
+			        colorByPoint: true,
+			        data: neighborhood
+			    }]
+			});
+
+
+			// THIRD STACK CHART
+			Highcharts.chart('stack_total_chart', {
+		    chart: {
+		        type: 'column'
+		    },
+		    title: {
+		        text: 'Total Laporan, Oktober 2017 s.d. Januari 2018'
+		    },
+		    xAxis: {
+		        categories: ['Oktober 2017', 'November 2017', 'Desember 2017', 'Januari 2018']
+		    },
+		    yAxis: {
+		        min: 0,
+		        title: {
+		            text: 'Total Laporan'
+		        },
+		        stackLabels: {
+		            enabled: true,
+		            style: {
+		                fontWeight: 'bold',
+		                color: (Highcharts.theme && Highcharts.theme.textColor) || 'gray'
+		            }
+		        }
+		    },
+		    legend: {
+		        align: 'right',
+		        x: -30,
+		        verticalAlign: 'top',
+		        y: 25,
+		        floating: true,
+		        backgroundColor: (Highcharts.theme && Highcharts.theme.background2) || 'white',
+		        borderColor: '#CCC',
+		        borderWidth: 1,
+		        shadow: false
+		    },
+		    tooltip: {
+		        headerFormat: '<b>{point.x}</b><br/>',
+		        pointFormat: '{series.name}: {point.y}<br/>Total: {point.stackTotal}'
+		    },
+		    plotOptions: {
+		        column: {
+		            stacking: 'normal',
+		            dataLabels: {
+		                enabled: true,
+		                color: (Highcharts.theme && Highcharts.theme.dataLabelsColor) || 'white'
+		            }
+		        }
+		    },
+		    series: [{
+		        name: 'Pelanggaran',
+		        data: totpel
+		    }, {
+		        name: 'Pedagang Kaki Lima',
+		        data: totpkl
+		    }, {
+		        name: 'Parkir Liar',
+		        data: totparkir
+		    }, {
+		        name: 'Kemacetan',
+		        data: totkem
+		    }]
+		});
+		}
+
+		//Fourth Heatmap Chart
+			Highcharts.chart('heatmapchart', {
+
+		    chart: {
+		        type: 'heatmap',
+		        marginTop: 40,
+		        marginBottom: 80,
+		        plotBorderWidth: 1
+		    },
+
+
+		    title: {
+		        text: 'Heatmap Laporan per Hari (Oktober 2017 s.d. Januari 2018)'
+		    },
+
+		    xAxis: {
+		        categories: ['Pelanggaran', 'Kaki Lima Liar', 'Parkir Liar']
+		    },
+
+		    yAxis: {
+		        categories: ['Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat','Sabtu','Minggu'],
+		        title: null
+		    },
+
+		    colorAxis: {
+		        min: 0,
+		        minColor: '#FFFFFF',
+		        maxColor: Highcharts.getOptions().colors[0]
+		    },
+
+		    legend: {
+		        align: 'right',
+		        layout: 'vertical',
+		        margin: 0,
+		        verticalAlign: 'top',
+		        y: 25,
+		        symbolHeight: 280
+		    },
+
+		    tooltip: {
+		        formatter: function () {
+		            return '<b>' + this.series.xAxis.categories[this.point.x] + '</b> dilaporkan terjadi sebanyak <br><b>' +
+		                this.point.value + '</b> kali pada hari <br><b>' + this.series.yAxis.categories[this.point.y] + '</b>';
+		        }
+		    },
+
+		    series: [{
+		        name: 'Heatmap pelaporan',
+		        borderWidth: 1,
+		        data: [[0, 0, seninpel], [0, 1, selasapel], [0, 2, rabupel], [0, 3, kamispel], [0, 4, jumatpel], [0, 5, sbtpel], [0, 6, sunpel], [1, 0, seninpkl], [1, 1, selasapkl], [1, 2, rabupkl], [1, 3, kamispkl], [1, 4, jumatpkl], [1, 5, sbtpkl], [1, 6, sunpkl], [2, 0, seninliar], [2, 1, selasaliar], [2, 2, rabuliar], [2, 3, kamisliar], [2, 4, jumatliar], [2, 5, sbtliar], [2, 6, sunliar]],
+		        dataLabels: {
+		            enabled: true,
+		            color: '#000000'
+		        }
+		    }]
+
+		});
+
+
+		//FIFTH PARALLEL COORDINATES CHART
+		$.getJSON(
+    	'https://cdn.rawgit.com/highcharts/highcharts/v6.0.5/samples/data/marathon.json',
+    	function (data) {
+
+        Highcharts.chart('parallelchart', {
+            chart: {
+                type: 'spline',
+                parallelCoordinates: true,
+                parallelAxes: {
+                    lineWidth: 2
+                }
+            },
+            title: {
+                text: 'Marathon set'
+            },
+            plotOptions: {
+                series: {
+                    animation: false,
+                    marker: {
+                        enabled: false,
+                        states: {
+                            hover: {
+                                enabled: false
+                            }
+                        }
+                    },
+                    states: {
+                        hover: {
+                            halo: {
+                                size: 0
+                            }
+                        }
+                    },
+                    events: {
+                        mouseOver: function () {
+                            this.group.toFront();
+                        }
+                    }
+                }
+            },
+            tooltip: {
+                pointFormat: '<span style="color:{point.color}">\u25CF</span>' +
+                    '{series.name}: <b>{point.formattedValue}</b><br/>'
+            },
+            xAxis: {
+                categories: [
+                    'Training date',
+                    'Miles for training run',
+                    'Training time',
+                    'Shoe brand',
+                    'Running pace per mile',
+                    'Short or long',
+                    'After 2004'
+                ],
+                offset: 10
+            },
+            yAxis: [{
+                type: 'datetime',
+                tooltipValueFormat: '{value:%Y-%m-%d}'
+            }, {
+                min: 0,
+                tooltipValueFormat: '{value} mile(s)'
+            }, {
+                type: 'datetime',
+                min: 0,
+                labels: {
+                    format: '{value:%H:%M}'
+                }
+            }, {
+                categories: [
+                    'Other',
+                    'Adidas',
+                    'Mizuno',
+                    'Asics',
+                    'Brooks',
+                    'New Balance',
+                    'Izumi'
+                ]
+            }, {
+                type: 'datetime'
+            }, {
+                categories: ['&gt; 5miles', '&lt; 5miles']
+            }, {
+                categories: ['Before', 'After']
+            }],
+            colors: ['rgba(11, 200, 200, 0.1)'],
+            series: data.map(function (set, i) {
+                return {
+                    name: 'Runner ' + i,
+                    data: set,
+                    shadow: false
+                };
+            })
+        });
+    	}
+		);
+
+
+
+		// MAP init
+				var CartoDB = 	L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png', {
+				attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
+				subdomains: 'abcd',
+				maxZoom: 19
+			}),
+				Esri_WorldImagery  	= 	L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/									tile/{z}/{y}/{x}',
+										{id: 'MapID', attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'}),
+				OpenMapSurfer_Roads = 	L.tileLayer('https://korona.geog.uni-heidelberg.de/tiles/roads/x={x}&y={y}&z={z}',
+									{id: 'MapID',
+									attribution: 'Imagery from <a href="http://giscience.uni-hd.de/">GIScience Research Group @ University of Heidelberg</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'});
+
+
+			var map = L.map('map', {
+			center: [-6.174, 106.8450],
+			zoom: 13,
+			layers: OpenMapSurfer_Roads
+			});
+			
+			var baseLayers = {
+			"<span style='color: gray'>OpenMapSurfer-Roads</span>": OpenMapSurfer_Roads,
+			"<span style='color: gray'>CartoDB Dark-Label</span>": CartoDB
+			};
+			
+			var overlays = {"<span style='color: gray'>Esri World Imagery</span>": Esri_WorldImagery
+			};
+			
+			// Add a layer control element to the map
+			layerControl = L.control.layers(baseLayers, overlays, {position: 'topleft'});
+			layerControl.addTo(map);
+
+
+
+
+		// END MAP INITIATION
+
+
+		// marker init
+			var kemacetan = L.AwesomeMarkers.icon({
+			    icon: 'ban',
+			    markerColor: 'red',
+			    prefix: 'fa',
+			});
+			var cctv = L.AwesomeMarkers.icon({
+			    icon: 'video-camera',
+			    markerColor: 'black',
+			    prefix: 'fa',
+			});
+			var pelanggaran = L.AwesomeMarkers.icon({
+			    icon: 'motorcycle',
+			    markerColor: 'orange',
+			    prefix: 'fa',
+			});
+			var pkl = L.AwesomeMarkers.icon({
+			    icon: 'cart-arrow-down',
+			    markerColor: 'green',
+			    prefix: 'fa',
+			});
+			var parkir = L.AwesomeMarkers.icon({
+			    icon: 'product-hunt',
+			    markerColor: 'blue',
+			    prefix: 'fa',
+			});
+
+			var pelanggaran_nontl = L.AwesomeMarkers.icon({
+			    icon: 'motorcycle',
+			    markerColor: 'orange',
+			    iconColor: 'black',
+			    prefix: 'fa',
+			});
+			var pkl_nontl = L.AwesomeMarkers.icon({
+			    icon: 'cart-arrow-down',
+			    markerColor: 'green',
+			    iconColor: 'black',
+			    prefix: 'fa',
+			});
+			var parkir_nontl = L.AwesomeMarkers.icon({
+			    icon: 'product-hunt',
+			    markerColor: 'blue',
+			    iconColor: 'black',
+			    prefix: 'fa',
+			});
+		// end marker init
+
+		// call data CSV
+		
+			d3.csv('pelanggaran3.csv',function(data){
+				console.log(data[0]["Tanggal lapor"]);
+				var intensity = 0;
+				// LOOP Marker
+				var markers = L.markerClusterGroup();
+
+				var forChartMotor = 0;
+				var forChartPkl = 0;
+				var forChartParkir = 0;
+
+				var menteng = 0;
+				var tabn = 0;
+				var gambir = 0;
+				var senen = 0;
+				var cpkputih = 0;
+				var johar = 0;
+				var kemayoran = 0;
+				var swhbsr = 0;
+
+				$.each(data,function(i,d){
+					if(d.Kategori == "Kaki Lima Liar"){
+						if(d['Status laporan'] == 'complete'){
+							icn = pkl;
+						}else{
+							icn = pkl_nontl;
+						}
+						marker[i] = L.marker([d.Lat, d.Lng], {icon: icn}).addTo(map);
+						$(marker[i]._icon).addClass('pkl');
+						$(marker[i]._shadow).addClass('pkl');
+						intensity = 20000;
+						forChartPkl++;
+
+						let splitvar = d["Tanggal lapor"].split('/');
+						if(splitvar[1] == "10"){
+							totpkl[0] = totpkl[0] + 1; 
+						}if(splitvar[1] == "11"){
+							totpkl[1] = totpkl[1] + 1; 
+						}if(splitvar[1] == "12"){
+							totpkl[2] = totpkl[2] + 1; 
+						}if(splitvar[1] == "01"){
+							totpkl[3] = totpkl[3] + 1; 
+						}
+					}
+					else if(d.Kategori == "CCTV"){
+						icn = cctv;
+						marker[i] = L.marker([d.Lat, d.Lng], {icon: icn}).addTo(map);
+						$(marker[i]._icon).addClass('cctv');
+						$(marker[i]._shadow).addClass('cctv');
+						intensity = 2;
+					}
+					else if(d.Kategori == "Parkir Liar"){
+						if(d['Status laporan'] == 'complete'){
+							icn = parkir;
+						}else{
+							icn = parkir_nontl;
+						}
+						marker[i] = L.marker([d.Lat, d.Lng], {icon: icn}).addTo(map);
+						$(marker[i]._icon).addClass('parkir');
+						$(marker[i]._shadow).addClass('parkir');
+						intensity = 20000;
+						forChartParkir++;
+						
+
+						let splitvar = d["Tanggal lapor"].split('/');
+						if(splitvar[1] == "10"){
+							totparkir[0] = totparkir[0] + 1; 
+						}if(splitvar[1] == "11"){
+							totparkir[1] = totparkir[1] + 1; 
+						}if(splitvar[1] == "12"){
+							totparkir[2] = totparkir[2] + 1; 
+						}if(splitvar[1] == "01"){
+							totparkir[3] = totparkir[3] + 1; 
+						}
+					}
+					else if(d.Kategori == "Pelanggaran"){
+						if(d['Status laporan'] == 'complete'){
+							icn = pelanggaran;
+						}else{
+							icn = pelanggaran_nontl;
+						}
+						marker[i] = L.marker([d.Lat, d.Lng], {icon: icn}).addTo(map);
+						$(marker[i]._icon).addClass('motor');
+						$(marker[i]._shadow).addClass('motor');
+						intensity = 10000;
+						forChartMotor++;
+
+						console.log(d["Tanggal lapor"]);
+						let splitvar = d["Tanggal lapor"].split('/');
+						if(splitvar[1] == "10"){
+							totpel[0] = totpel[0] + 1; 
+						}if(splitvar[1] == "11"){
+							totpel[1] = totpel[1] + 1; 
+						}if(splitvar[1] == "12"){
+							totpel[2] = totpel[2] + 1; 
+						}if(splitvar[1] == "01"){
+							totpel[3] = totpel[3] + 1; 
+						}
+					}
+					else if(d.Kategori == "Kemacetan"){
+						icn = kemacetan;
+						marker[i] = L.marker([d.Lat, d.Lng], {icon: icn}).addTo(map);
+						$(marker[i]._icon).addClass('kemacetan');
+						$(marker[i]._shadow).addClass('kemacetan');
+						intensity = 20000;
+
+						let splitvar = d["Tanggal lapor"].split('/');
+						if(splitvar[1] == "10"){
+							totkem[0] = totkem[0] + 1; 
+						}if(splitvar[1] == "11"){
+							totkem[1] = totkem[1] + 1; 
+						}if(splitvar[1] == "12"){
+							totkem[2] = totkem[2] + 1; 
+						}if(splitvar[1] == "01"){
+							totkem[3] = totkem[3] + 1; 
+						}
+					}
+					
+					
+					$(marker[i]._icon).addClass('selectedMarker');
+					$(marker[i]._shadow).addClass('selectedMarker');
+					
+					marker[i].bindPopup('<div class="popup"><img src="'
+						+d["Foto Laporan"]+'"><table class="descpop"><tr><td><b>No.</b></td><td>:</td><td>'
+						+d["Nomor laporan"]+'</td></tr><tr><td><b>Tanggal Lapor</b></td><td>:</td><td>'
+						+d["Tanggal lapor"]+'</td></tr><tr><td><b>Keterangan</b></td><td>:</td><td>'
+						+d["Keterangan Laporan"]+'</td></tr><tr><td><b>Status</b></td><td>:</td><td>'
+						+d["Status laporan"]+'</td></tr><tr><td><b>Tanggal TL</b></td><td>:</td><td>'
+						+d["Tanggal ditindaklanjuti"]+'</td></tr></table></div>');
+
+					
+					// set value for heatmap
+					if(d.Kategori != 'Kemacetan'){
+						heatmapmarker.push([d.Lat,d.Lng,intensity]);  // lat, lng, intensity
+					}
+				});
+
+				$.each(data,function(i,d){
+					
+
+					if(d.Kecamatan == "Gambir"){
+						gambir++;
+					}
+					else if(d.Kecamatan == "Tanah Abang"){
+						tabn++;
+					}
+					else if(d.Kecamatan == "Menteng"){
+						menteng++;
+					}
+					else if(d.Kecamatan == "Senen"){
+						senen++;
+					}
+					else if(d.Kecamatan == "Cempaka Putih"){
+						cpkputih++;
+					}
+					else if(d.Kecamatan == "Johar Baru"){
+						johar++;
+					}
+					else if(d.Kecamatan == "Kemayoran"){
+						kemayoran++;
+					}
+					else if(d.Kecamatan == "Sawah Besar"){
+						swhbsr++;
+					}
+
+				});
+
+				
+				// set population data
+				datapopulation = [{'name':'Pelanggaran','y':forChartMotor},{'name':'PKL','y':forChartPkl},{'name':'Parkir Liar','y':forChartParkir}];
+
+				//set neighborhood population data
+				neighborhood = [{'name':'Kemayoran','y':kemayoran},{'name':'Tanah Abang','y':tabn},{'name':'Gambir','y':gambir},{'name':'Menteng','y':menteng},{'name':'Sawah Besar','y':swhbsr},{'name':'Cempaka Putih','y':cpkputih},{'name':'Senen','y':senen},{'name':'Johar Baru','y':johar}];
+
+				// add Heatmap into the map
+				console.log(heatmapmarker)
+				var heat = L.heatLayer(heatmapmarker, {radius: 9}).addTo(map);
+
+
+
+			})
+
+		
+		// show/hide right panel
+		$('#showhidepanel').on('click',function(){
+			$('.rightbar').toggle('slow');
+		});
+
+		// toggle hide all marker
+		$('#toggleicon').on('click',function(){
+			var checkdataattrb = $('#checkall').attr('data-attrib');
+			if(checkdataattrb == 1){ //maka matikan
+				$('#checkall').attr('class','fa fa-circle-o');
+				$('#checkall').attr('data-attrib',0);
+				$('.selectedMarker').hide('slow');
+				$('.checktype').prop('checked',false);
+
+			}else{
+				$('#checkall').attr('class','fa fa-check-circle-o');
+				$('#checkall').attr('data-attrib',1);
+				$('.selectedMarker').show('slow');
+				$('.checktype').prop('checked',true);
+			}
+		})
+
+		// check to show marker
+		$('.checktype').on('change',function(){
+			var data = $(this).attr('id');
+			var status = $('#'+data+':checkbox:checked').length;
+			if(status == 1){
+				$('.'+data).show(300);
+			}else{
+				$('.'+data).hide(300);
+			}
+		}) 
+
+		// check to show/hide heatmap	
+		$('.showhideheatmap').on('change',function(){
+			var data = $(this).attr('id');
+			var status = $('#'+data+':checkbox:checked').length;
+			if(status == 1){
+				$('.leaflet-heatmap-layer').fadeIn(300);
+			}else{
+				$('.leaflet-heatmap-layer').fadeOut(300);
+			}
+		}) 
+
+
+		// check to show/hide statistik
+		$('.statistik').on('change',function(){
+			var data = $(this).attr('id');
+			var status = $('#'+data+':checkbox:checked').length;
+			if(status == 1){
+				$('#statistik_modal').modal('show');
+				drawstat();
+			}else{
+				$('#statistik_modal').modal('hide');
+			}
+		})
+
+		//check to show/hide pcp
+		$('.statistik2').on('change',function(){
+			var data = $(this).attr('id');
+			var status = $('#'+data+':checkbox:checked').length;
+			if(status == 1){
+				$('#statistik_modal2').modal('show');
+				drawstat();
+			}else{
+				$('#statistik_modal2').modal('hide');
+			}
+		})
+	})
+	
+</script>
+</body>
+</html>

@@ -1,0 +1,1481 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="digitasi_point" id="digitasi_point">
+	<SimpleField name="Id" type="string"></SimpleField>
+</Schema>
+<Folder><name>digitasi_point</name>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.81412686801,-6.16523722694147,0 106.813828,-6.165262,0 106.813599,-6.165266,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.812531,-6.162894,0 106.812347,-6.16234,0 106.812309,-6.16227,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.812675255581,-6.16299624830378,0 106.812569,-6.162604,0 106.812428981366,-6.16219674940581,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.820119994203,-6.16360122626451,0 106.820045,-6.163214,0 106.820038,-6.163157,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.810121052907,-6.17132964125337,0 106.80925,-6.171464,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.80927634425,-6.17113333572038,0 106.810031823119,-6.17100841401758,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.808273,-6.169589,0 106.808189,-6.167998,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.808436394515,-6.16952719954144,0 106.808336457153,-6.1679638936606,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.801931914781,-6.16616182373946,0 106.800858,-6.166132,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.802322,-6.166385,0 106.802315602868,-6.1661588494132,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.845401693033,-6.1570683169285,0 106.842417848932,-6.15781546768437,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.84248566357,-6.15737526739827,0 106.845044773882,-6.15676374591974,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.842301255342,-6.15788685151455,0 106.840843835476,-6.15829730853807,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.841718287396,-6.15760726484635,0 106.840593992071,-6.15789874881958,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.840344148665,-6.15840438428334,0 106.839083034332,-6.1587494061292,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.837580404707,-6.15930501027409,0 106.838899550263,-6.15880124085292,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.844526765221,-6.16203707765785,0 106.843164523795,-6.16245348333389,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.844479176001,-6.16187646403995,0 106.843131806207,-6.16226610077967,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.84609816127,-6.16148813600377,0 106.845407165794,-6.16170894998513,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.845785500093,-6.16143340840064,0 106.845335781963,-6.16156665821697,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.843077376036,-6.16242951026426,0 106.842070864031,-6.16270790720196,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.842752579609,-6.16232957290201,0 106.842060156456,-6.16251160166896,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.841414132793,-6.16287922839439,0 106.841171,-6.162954,0 106.840752,-6.163094,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.841412266899,-6.16272622310304,0 106.841034,-6.162842,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.845335781963,-6.16156665821697,0 106.844479176001,-6.16187646403995,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.842752579609,-6.16232957290201,0 106.843131806207,-6.16226610077967,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.84904166161,-6.16071129552301,0 106.84609816127,-6.16148813600377,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.848793007935,-6.16059589166423,0 106.845785500093,-6.16143340840064,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.866219466506,-6.16158122646685,0 106.865211,-6.163597,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.869766,-6.163463,0 106.870293,-6.163782,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.862032328973,-6.15502866674803,0 106.860085,-6.155294,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.858065339173,-6.15618525135931,0 106.858565025985,-6.15560823206531,0 106.858981193714,-6.1554682007851,0 106.860085,-6.155294,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.847214,-6.197961,0 106.846488626855,-6.19856583134023,0 106.844846798761,-6.19973652615526,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.847323817668,-6.19808042129497,0 106.846866961155,-6.19850872427608,0 106.844911044208,-6.19991498573073,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.842937578736,-6.19126336465648,0 106.841817153797,-6.19217578003501,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.871368,-6.170608,0 106.870995,-6.169754,0 106.870705,-6.169219,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.871007441882,-6.16978248623854,0 106.870169915087,-6.17012696945783,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.872706301546,-6.16670946858765,0 106.872223,-6.164958,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.867670767192,-6.15815218322775,0 106.866510779951,-6.15753947201865,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.863114099365,-6.15557046803601,0 106.862032328973,-6.15502866674803,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8411286173,-6.15075823419976,0 106.842582467975,-6.15178616135444,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.799988,-6.204538,0 106.799555592492,-6.20475894088653,0 106.798978009334,-6.20510818644965,0 106.798760043581,-6.20530784851426,0 106.798284759761,-6.20592787278613,0 106.797768,-6.207097,0 106.797516,-6.2078,0 106.797295,-6.208256,0 106.797211,-6.208445,0 106.797081,-6.208695,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.796046754212,-6.20740725210409,0 106.795361469442,-6.20747863593427,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.796068169361,-6.20765709550974,0 106.79542571489,-6.20772847933992,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.796371,-6.207027,0 106.796471,-6.206462,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.797216973135,-6.20399272556024,0 106.796623,-6.205355,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.844922608388,-6.16375819930666,0 106.844526765221,-6.16203707765785,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.845407165794,-6.16170894998513,0 106.844618037379,-6.16200215708435,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.849187792241,-6.16076007843931,0 106.84904166161,-6.16071129552301,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.840869196565,-6.16344173099289,0 106.840752,-6.163094,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8455900472,-6.15767716944473,0 106.845401693033,-6.1570683169285,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.846637010043,-6.15677892291502,0 106.845946966351,-6.1569335878804,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.837328558588,-6.15818399463898,0 106.836472,-6.154882,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.833697501093,-6.16047113255781,0 106.836743211181,-6.15924333067879,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.833697501093,-6.16047113255781,0 106.83236500293,-6.16108027457531,0 106.829623863851,-6.16217482663801,0 106.829357364218,-6.16212723741789,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8411286173,-6.15075823419976,0 106.84101684212,-6.15073021406506,0 106.837674040087,-6.14835675676863,0 106.836037,-6.14714,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8366103,-6.1818467,0 106.835854,-6.182256,0 106.834442,-6.183541,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8518554,-6.174472,0 106.849608798149,-6.17467237087648,0 106.846438474949,-6.17491084872609,0 106.845297642569,-6.17503099512871,0 106.843819,-6.176619,0 106.843277,-6.17756,0 106.842621,-6.178117,0 106.840958,-6.17933,0 106.838631,-6.180929,0 106.836945,-6.181427,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8437059,-6.1775121,0 106.8450249,-6.1757298,0 106.8453407,-6.1753293,0 106.845772,-6.1751549,0 106.8462454,-6.1751317,0 106.847321,-6.175084,0 106.8486849,-6.1749284,0 106.851639,-6.174788,0 106.8517519,-6.1747738,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.854337500164,-6.17412136421192,0 106.854309,-6.173051,0 106.8543113,-6.1719121,0 106.854036417943,-6.17191152312668,0 106.853216001284,-6.17191257059883,0 106.8528392,-6.1719131,0 106.8522968,-6.1719577,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8578412,-6.1737871,0 106.857090367515,-6.17392178772849,0 106.855936,-6.1740638,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8578989,-6.1740627,0 106.85682359417,-6.17423426285587,0 106.855580994817,-6.1743655753412,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.859726,-6.175733,0 106.859822164815,-6.17546447812956,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.862038,-6.1761124,0 106.861201010362,-6.17610535890693,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.863675928404,-6.17613990109182,0 106.862038,-6.1761124,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.88129,-6.1624278,0 106.880359095033,-6.16260854513673,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.82312,-6.183149,0 106.829514,-6.182776,0 106.832397,-6.182594,0 106.833405,-6.182468,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8151717,-6.1883089,0 106.813789,-6.188457,0 106.813576,-6.188524,0 106.812904,-6.188627,0 106.812113747399,-6.18865277470158,0 106.811489138885,-6.18872415853176,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.815014146136,-6.18530761528313,0 106.8152736,-6.1856214,0 106.8154308,-6.1859215,0 106.8154636,-6.1860694,0 106.81546180759,-6.18626724791717,0 106.815462132772,-6.18703512717073,0 106.815369,-6.187698,0 106.815315,-6.188134,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.814873,-6.188112,0 106.812691,-6.188443,0 106.812477,-6.188469,0 106.812074486293,-6.18847431512613,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.811325,-6.186998,0 106.811157,-6.186465,0 106.811127,-6.185351,0 106.811142,-6.184793,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.815475,-6.183872,0 106.815811,-6.183245,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.816513,-6.182764,0 106.816747747708,-6.18228057812781,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8148419,-6.1850993,0 106.815014146136,-6.18530761528313,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8154975,-6.1856245,0 106.815063,-6.185094,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.81559404444,-6.18788820377041,0 106.815631456227,-6.18746270148285,0 106.8156363,-6.186689,0 106.8156154,-6.1858832,0 106.8154975,-6.1856245,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.798111,-6.218122,0 106.7981396,-6.2161454,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.798309,-6.226878,0 106.79837,-6.224366,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.800185661387,-6.22817261846108,0 106.799253157239,-6.22882501657554,0 106.798645,-6.228788,0 106.798366808014,-6.22872388948279,0 106.798388034853,-6.22746723062097,0 106.798401,-6.227138,0 106.798309,-6.226878,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.808921060397,-6.2147369954444,0 106.8091294,-6.2150398,0 106.810669,-6.217247,0 106.811508,-6.218339,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.812309,-6.217409,0 106.812012,-6.217637,0 106.8114501,-6.2176144,0 106.809395,-6.214659,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.82304322757,-6.20205592995325,0 106.823266580239,-6.20076849534037,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8168035,-6.2063078,0 106.816628,-6.205778,0 106.8159759,-6.2032624,0 106.8154851,-6.2015734,0 106.8151643,-6.2005545,0 106.8144224,-6.1984963,0 106.814277,-6.198014,0 106.814252354303,-6.19767991650272,0 106.8143076,-6.1963122,0 106.814338104337,-6.1952451798189,0 106.8144314,-6.1937246,0 106.814607520318,-6.19257215119402,0 106.814716455619,-6.19194644768537,0 106.815060596691,-6.19044385683552,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8168035,-6.2063078,0 106.8175851,-6.2086882,0 106.8175715,-6.2090649,0 106.817667327304,-6.210731322002,0 106.81774497544,-6.21236421996034,0 106.8181,-6.21368,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8170684,-6.2066652,0 106.8163204,-6.2039613,0 106.8157897,-6.2016159,0 106.8152026,-6.199737,0 106.8143807,-6.1978736,0 106.814488876784,-6.19504962378006,0 106.81459,-6.194061,0 106.814789,-6.192849,0 106.81517,-6.190612,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8184091,-6.2136504,0 106.818223367747,-6.21316917294514,0 106.817894758402,-6.21142584682051,0 106.8178921,-6.2103955,0 106.817856736857,-6.20961597998652,0 106.817709417775,-6.20886851308581,0 106.8175823,-6.2078506,0 106.8173579,-6.2073719,0 106.8170684,-6.2066652,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.825115689643,-6.20260376851631,0 106.82359,-6.2022336,0 106.82304322757,-6.20205592995325,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.822055385245,-6.20207160376722,0 106.8227617,-6.2022481,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8207747,-6.1678101,0 106.819122854828,-6.16952840286941,0 106.817453851044,-6.16997616344139,0 106.815521,-6.170362,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.830383,-6.168148,0 106.830172,-6.1682966,0 106.828470838876,-6.16795182252353,0 106.8253675,-6.1672968,0 106.8239887,-6.1675101,0 106.8210384,-6.1677142,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.833765053599,-6.16647705467119,0 106.833413305257,-6.16666983220554,0 106.8320146,-6.1674364,0 106.831555890306,-6.167759526852,0 106.8305836,-6.1679792,0 106.830574,-6.167753,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.842438,-6.168187,0 106.841020938269,-6.16825076443421,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.842859,-6.1692089,0 106.8428018,-6.1685758,0 106.842731699872,-6.16841894335254,0 106.842079,-6.166844,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8423162,-6.1677742,0 106.841040549329,-6.16787572119855,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8567498,-6.1887541,0 106.856674,-6.188477,0 106.856636,-6.1873367,0 106.8559817,-6.1857294,0 106.8560326,-6.1842888,0 106.856075639745,-6.18334589944176,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.875206,-6.188417,0 106.875221,-6.187054,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.832069135294,-6.18278451944828,0 106.832327925388,-6.185089005319,0 106.832123,-6.185312,0 106.830208,-6.186944,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.82622825752,-6.18704750268759,0 106.8257573,-6.1870301,0 106.8255816,-6.1870781,0 106.825226,-6.187094,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.800438,-6.20406,0 106.800301774323,-6.20363807957582,0 106.7996588,-6.2020378,0 106.7989895,-6.2020982,0 106.79866,-6.202352,0 106.797241,-6.204009,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.801634481873,-6.20363950330667,0 106.8012138,-6.2038265,0 106.8011251,-6.2037883,0 106.8010288,-6.2036708,0 106.8003284,-6.2022883,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.7979483,-6.2143557,0 106.7981396,-6.2161454,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.798386,-6.219137,0 106.79837,-6.224366,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8220803,-6.205184,0 106.8220245,-6.205756,0 106.8217388,-6.2076807,0 106.8215018,-6.2087817,0 106.821269000887,-6.20945361497881,0 106.8195474,-6.2127264,0 106.819084803385,-6.2134174307703,0 106.818674,-6.2137461,0 106.8184091,-6.2136504,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8207516,-6.1945066,0 106.820448766036,-6.19448703350181,0 106.8192793,-6.194334,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.837489059128,-6.19349496550873,0 106.83973,-6.1967563,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8400504,-6.1971663,0 106.8425672,-6.2005068,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8429421,-6.2009967,0 106.8445876,-6.2030814,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.849739,-6.195475,0 106.84845,-6.196806,0 106.847323817668,-6.19808042129497,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.848053,-6.197016,0 106.847214,-6.197961,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.849694593281,-6.19541654006531,0 106.848053,-6.197016,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.81985193856,-6.16445065060003,0 106.815498002776,-6.16521246775886,0 106.81412686801,-6.16523722694149,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.813287933188,-6.16528579463989,0 106.813599,-6.165266,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.817146,-6.165228,0 106.819954,-6.164735,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.814514,-6.165492,0 106.8158658,-6.1653811,0 106.817146,-6.165228,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.810883,-6.16571099999987,0 106.814514,-6.165492,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.810883,-6.16571099999987,0 106.810417,-6.165743,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.810539,-6.16544,0 106.8106645,-6.1654249,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.813148,-6.16462399999989,0 106.812675255581,-6.16299624830373,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.813364829505,-6.16528090136666,0 106.813148,-6.16462399999989,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.812767,-6.163878,0 106.812531,-6.162894,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.812871268932,-6.1643690681276,0 106.812767,-6.163878,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.813192698572,-6.16529518818885,0 106.812871268932,-6.1643690681276,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.820038,-6.163157,0 106.819412,-6.16017399999987,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.828554071512,-6.16763998389746,0 106.827339,-6.167356,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.826350492424,-6.16719157316004,0 106.827339,-6.167356,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.844426897734,-6.15300741913336,0 106.842582467975,-6.15178616135444,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.822633323967,-6.14027837930831,0 106.822548,-6.140083,0 106.822464,-6.13972299999989,0 106.822396391604,-6.13954271677068,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.830589677639,-6.16709980402249,0 106.830574,-6.16775299999989,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.837639364997,-6.16067451641112,0 106.838104,-6.162404,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8463735,-6.156485,0 106.845044773882,-6.15676374591976,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8457459,-6.1559668,0 106.844302082637,-6.15634964219441,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.869583278362,-6.15921575707165,0 106.867670767192,-6.15815218322774,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.866046714077,-6.15728721878821,0 106.866510779951,-6.15753947201858,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.872452,-6.17197,0 106.8719322,-6.1715896,0 106.871697084959,-6.17124821708722,0 106.871368,-6.170608,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.836006,-6.186769,0 106.8361515,-6.1867289,0 106.836274,-6.1865302,0 106.83586105362,-6.18578226047282,0 106.835037,-6.184591,0 106.834442,-6.18354099999988,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.835489357,-6.18680481187312,0 106.836006,-6.186769,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.836182,-6.187187,0 106.836098,-6.18837499999989,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8458053,-6.188109,0 106.846244445747,-6.18882832185915,0 106.8464027,-6.1891002,0 106.846180825928,-6.1892103874614,0 106.8453371,-6.1896294,0 106.844132394448,-6.19029733949611,0 106.8437485,-6.1905192,0 106.8432155,-6.1908997,0 106.842857,-6.191363,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8221849,-6.1946443,0 106.8222705,-6.1949244,0 106.822446,-6.1954283,0 106.8227836,-6.1957493,0 106.8228375,-6.1962124,0 106.8227939,-6.1968845,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8233183,-6.1977932,0 106.8233866,-6.1976825,0 106.8238641,-6.1972392,0 106.82453856211,-6.19646829420725,0 106.826029585973,-6.19813289627081,0 106.827024,-6.1991009,0 106.8277997,-6.1995068,0 106.828102,-6.199553,0 106.828873,-6.19974899999988,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.824380835155,-6.19775347659152,0 106.8241726,-6.1975263,0 106.8238641,-6.1972392,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8074509,-6.2029483,0 106.8093596,-6.2045865,0 106.8095198,-6.2048981,0 106.8095713,-6.2053588,0 106.809709640155,-6.20570003904845,0 106.809825,-6.2059528,0 106.8102878,-6.2068135,0 106.8106898,-6.2073092,0 106.81096398443,-6.20762026744995,0 106.8113883,-6.2080592,0 106.8117251,-6.2084812,0 106.8120935,-6.2089404,0 106.812297601793,-6.20948276617997,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8097858,-6.2058879,0 106.8086051,-6.2064976,0 106.8087542,-6.2069125,0 106.8094895,-6.2065633,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.798091817234,-6.21850254629521,0 106.798111,-6.218122,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8036677,-6.197838,0 106.8034356,-6.198206,0 106.803282886278,-6.19851054627264,0 106.803047547676,-6.19885102250794,0 106.8027074,-6.1990993,0 106.802195299739,-6.19934052311777,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.803455952051,-6.20399441857541,0 106.803689902507,-6.20393706129914,0 106.8038529,-6.2039324,0 106.8040263,-6.2032757,0 106.8038162,-6.2031879,0 106.803454345062,-6.20327252086526,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8152133,-6.2007271,0 106.814301,-6.200511,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8154155,-6.201375,0 106.8151657,-6.2013472,0 106.8142729,-6.2011908,0 106.813019,-6.20127699999989,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.814789,-6.192849,0 106.814949884676,-6.19301739579362,0 106.815619143963,-6.19344410813386,0 106.8159474,-6.1936097,0 106.816109,-6.193611,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.844846798761,-6.19973652615528,0 106.844760860122,-6.19982047788022,0 106.843722597068,-6.20052070536099,0 106.843507990684,-6.20058951227617,0 106.843178,-6.20073699999989,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.841766,-6.20290399999988,0 106.840263,-6.199763,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.843661081066,-6.20311736056624,0 106.8439231,-6.2029156,0 106.8442669,-6.2026427,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.851686915985,-6.19754830392827,0 106.851135,-6.1970285,0 106.8510184,-6.1969187,0 106.8503784,-6.1963159,0 106.8498132,-6.1953629,0 106.849739,-6.195475,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8517917,-6.197647,0 106.851686915985,-6.19754830392827,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.861719206897,-6.19346217122967,0 106.861606124691,-6.19309281424887,0 106.8614495,-6.1926725,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8617915,-6.1936983,0 106.861719206897,-6.19346217122967,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8599508,-6.1812075,0 106.86038,-6.1811969,0 106.8607018,-6.1811009,0 106.8609854,-6.1811122,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.861201010362,-6.17610535890691,0 106.8596365,-6.176054,0 106.859726,-6.175733,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.873006,-6.1763708,0 106.872185,-6.176245,0 106.8706428,-6.1762236,0 106.868060708744,-6.17619367406786,0 106.867603407185,-6.17618253007385,0 106.866603327657,-6.17618010940009,0 106.8649725,-6.1762022,0 106.8643691,-6.1761809,0 106.864233724541,-6.17617257560585,0 106.863675928404,-6.17613990109174,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.877996300845,-6.16651119443821,0 106.8773653,-6.1664695,0 106.8768785,-6.1664988,0 106.8763836,-6.1665868,0 106.875563189749,-6.16681909881294,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.872923730055,-6.16731529820322,0 106.872706301546,-6.16670946858761,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.870293,-6.163782,0 106.870598056327,-6.16386383961088,0 106.8721775,-6.1647579,0 106.872223,-6.164958,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8441092,-6.1569508,0 106.8439896,-6.1564325,0 106.844302082637,-6.15634964219441,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.84248566357,-6.15737526739821,0 106.841718287396,-6.15760726484638,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.841780402012,-6.1575929093932,0 106.841768,-6.157535,0 106.8416333,-6.1569018,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.844738877888,-6.15322955843806,0 106.844426897734,-6.15300741913336,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.858242,-6.1960509,0 106.856504307713,-6.19728687882628,0 106.855527771334,-6.19791706583783,0 106.8544929,-6.1986848,0 106.8538731,-6.1992349,0 106.85374145393,-6.19911930930573,0 106.852539,-6.19806599999987,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.849694593281,-6.19541654006525,0 106.849764638337,-6.19527291786869,0 106.849304,-6.194505,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.849121565334,-6.19423133823869,0 106.849304,-6.194505,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.849037802194,-6.20509903309323,0 106.849163088543,-6.20442426794216,0 106.8495121,-6.2026277,0 106.8496978,-6.2025239,0 106.850093501096,-6.20227355335805,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.81564127355,-6.18712857403051,0 106.8157126,-6.1871829,0 106.815883133934,-6.1871826188808,0 106.816388139076,-6.18718356748235,0 106.8172646,-6.1871599,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8193311,-6.1776602,0 106.818215549496,-6.17770398602187,0 106.816888174106,-6.1777560862966,0 106.8156802,-6.1778035,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.810916897878,-6.16875525776106,0 106.8108793,-6.1682457,0 106.8107926,-6.1673827,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8141299,-6.168081,0 106.813706338684,-6.16662707405499,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8133721,-6.1655253,0 106.813706338684,-6.16662707405499,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8107926,-6.1673827,0 106.8106806,-6.1657249,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8107995,-6.1624183,0 106.8106645,-6.1654249,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.812309,-6.16227,0 106.8107995,-6.1624183,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8014294,-6.1659169,0 106.800683,-6.1659018,0 106.800575,-6.165392,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.8019867,-6.1659287,0 106.8017611,-6.1659236,0 106.8014294,-6.1659169,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.802315602868,-6.16615884941319,0 106.802268351299,-6.16615842775303,0 106.802132,-6.166168,0 106.801962245803,-6.16615955101628,0 106.801931914781,-6.16616182373946,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.800776032354,-6.16613493404571,0 106.800858,-6.16613199999989,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.867783985114,-6.15821514527602,0 106.866219466506,-6.16158122646686,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#digitasi_point">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.863114099365,-6.15557046803599,0 106.866046714077,-6.15728721878821,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
